@@ -1,0 +1,16 @@
+Name / Description
+-----------------------------
+ranking 2022 / The current ranking of the club team in reference to the other teams.
+ranking 2021 / The 2021 season ranking of the club team in reference to the other teams.
+ranking 2020 / The 2020 season ranking of the club team in reference to the other teams.
+club name / The club’s/team’s name.
+country / The country where the club is from.
+point score 2022 / The amount of points scored by the club in the 2022 season.
+point score 2021 / The amount of points scored by the club in the 2021 season.
+point score 2020 / The amount of points scored by the club in the 2020 season.
+
+ranking / The ranking of the club team in reference to the other teams in the specified season.
+club name / The club’s/team’s name.
+country / The country where the club is from.
+year / The year that the season in reference took place.
+point score / The amount of points scored by the club in the specified season.
