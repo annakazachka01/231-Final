@@ -1,0 +1,2767 @@
+"","rank","club","country","points"
+"1",1,"Liverpool FC","England",2042
+"2",2,"Manchester City","England",2013
+"3",3,"Real Madrid","Spain",2010
+"4",4,"Bayern München","Germany",1955
+"5",5,"Inter Milan","Italy",1917
+"6",6,"AC Milan","Italy",1900
+"7",7,"Ajax Amsterdam","Netherlands",1899
+"8",8,"Chelsea FC","England",1879
+"9",9,"SSC Napoli","Italy",1854
+"10",10,"Atlético Madrid","Spain",1852
+"11",11,"Barcelona","Spain",1851
+"12",12,"Paris Saint-Germain","France",1847
+"13",13,"FC Porto","Portugal",1841
+"14",14,"Tottenham Hotspur","England",1837
+"15",15,"Villarreal","Spain",1826
+"16",16,"Palmeiras","Brazil",1825
+"17",17,"Benfica","Portugal",1803
+"18",18,"Bayer Leverkusen","Germany",1802
+"19",19,"Juventus","Italy",1800
+"20",20,"Sporting","Portugal",1797
+"21",21,"RB Leipzig","Germany",1793
+"22",22,"Arsenal","England",1793
+"23",23,"Borussia Dortmund","Germany",1791
+"24",24,"Sevilla","Spain",1790
+"25",25,"River Plate","Argentina",1785
+"26",26,"Flamengo","Brazil",1778
+"27",27,"Atlético Mineiro","Brazil",1773
+"28",28,"FK Red Star Belgrade","Serbia",1767
+"29",29,"Roma","Italy",1763
+"30",30,"Lazio","Italy",1759
+"31",31,"Real Betis","Spain",1759
+"32",32,"Red Bull Salzburg","Austria",1755
+"33",33,"PSV Eindhoven","Netherlands",1752
+"34",34,"Rangers","Scotland",1750
+"35",35,"1. FC Union Berlin","Germany",1748
+"36",36,"Monaco","France",1742
+"37",37,"Al Ahly","Egypt",1730
+"38",38,"Atalanta","Italy",1726
+"39",39,"Real Sociedad","Spain",1722
+"40",40,"Flora Tallinn","Estonia",1722
+"41",41,"Slavia Prague","Czech Republic",1721
+"42",42,"Manchester United","England",1717
+"43",43,"Shakhtar Donetsk","Ukraine",1714
+"44",44,"Newcastle United","England",1709
+"45",45,"Olympiakos","Greece",1706
+"46",46,"Lyon","France",1705
+"47",47,"Leicester City","England",1703
+"48",48,"Celtic","Scotland",1698
+"49",49,"Rennes","France",1697
+"50",50,"Feyenoord","Netherlands",1697
+"51",51,"Eintracht Frankfurt","Germany",1695
+"52",52,"Marseille","France",1694
+"53",53,"Athletic Bilbao","Spain",1694
+"54",54,"Freiburg","Germany",1688
+"55",55,"Dinamo Zagreb","Croatia",1686
+"56",56,"West Ham United","England",1686
+"57",57,"Crystal Palace","England",1685
+"58",58,"Zenit St. Petersburg","Russia",1685
+"59",59,"Brighton & Hove Albion","England",1685
+"60",60,"Partizan Beograd","Serbia",1685
+"61",61,"FC Sheriff","Moldova",1683
+"62",62,"Viktoria Plzeň","Czech Republic",1680
+"63",63,"Dynamo Kyiv","Ukraine",1669
+"64",64,"FCI Levadia Tallinn","Estonia",1669
+"65",65,"1. FC Köln","Germany",1668
+"66",66,"Celta Vigo","Spain",1668
+"67",67,"Al Hilal","Saudi Arabia",1663
+"68",68,"São Paulo","Brazil",1663
+"69",69,"Braga","Portugal",1662
+"70",70,"Kawasaki Frontale","Japan",1660
+"71",71,"Borussia Mönchengladbach","Germany",1658
+"72",72,"Sassuolo","Italy",1658
+"73",73,"Club Brugge","Belgium",1657
+"74",74,"Defensa y Justicia","Argentina",1656
+"75",75,"Lille","France",1654
+"76",76,"Aston Villa","England",1652
+"77",77,"The New Saints","Wales",1650
+"78",78,"Udinese","Italy",1649
+"79",79,"Mainz","Germany",1647
+"80",80,"Boca Juniors","Argentina",1645
+"81",81,"PFC Ludogorets 1945 Razgrad","Bulgaria",1642
+"82",82,"Corinthians","Brazil",1641
+"83",83,"RC Strasbourg","France",1639
+"84",84,"Hellas Verona","Italy",1636
+"85",85,"Estudiantes de la Plata","Argentina",1635
+"86",86,"Ulsan Hyundai","South Korea",1633
+"87",87,"Lens","France",1633
+"88",88,"AZ Alkmaar","Netherlands",1633
+"89",89,"BATE Borisov","Belarus",1632
+"90",90,"Sparta Prague","Czech Republic",1632
+"91",91,"Fluminense FC","Brazil",1630
+"92",92,"Fiorentina","Italy",1630
+"93",93,"Young Boys","Switzerland",1628
+"94",94,"Tolima","Colombia",1626
+"95",95,"Wolfsburg","Germany",1626
+"96",96,"Ceará SC","Brazil",1626
+"97",97,"Vélez Sarsfield","Argentina",1625
+"98",98,"Torino","Italy",1624
+"99",99,"Brentford FC","England",1624
+"100",100,"Nice","France",1624
+"101",101,"Talleres de Cordoba","Argentina",1623
+"102",102,"Al-Duhail SC","Qatar",1623
+"103",103,"CFR Cluj","Romania",1622
+"104",104,"Independiente","Ecuador",1613
+"105",105,"Internacional","Brazil",1613
+"106",106,"Leganes","Spain",1612
+"107",107,"Levante","Spain",1612
+"108",108,"Getafe","Spain",1611
+"109",109,"Valencia","Spain",1611
+"110",110,"Atlético PR","Brazil",1609
+"111",111,"Cádiz CF","Spain",1608
+"112",112,"Fenerbahçe","Turkey",1608
+"113",113,"Libertad","Paraguay",1608
+"114",114,"Maccabi Tel Aviv","Israel",1608
+"115",115,"Tigres UANL","Mexico",1608
+"116",116,"Slovan Bratislava","Slovakia",1606
+"117",117,"Wolverhampton Wanderers","England",1605
+"118",118,"Trabzonspor","Turkey",1605
+"119",119,"Mamelodi Sundowns FC","South Africa",1604
+"120",120,"Wydad Casablanca","Morocco",1602
+"121",121,"Persepolis","Iran",1601
+"122",122,"Atlético Goianiense","Brazil",1601
+"123",123,"Grêmio","Brazil",1599
+"124",124,"Shakhtyor Soligorsk","Belarus",1599
+"125",125,"Jeonbuk FC","South Korea",1599
+"126",126,"PAOK FC","Greece",1598
+"127",127,"Santos FC","Brazil",1598
+"128",128,"Racing Club","Argentina",1596
+"129",129,"Leeds United","England",1596
+"130",130,"Shamrock Rovers","Ireland",1596
+"131",131,"Hoffenheim","Germany",1594
+"132",132,"Osasuna","Spain",1591
+"133",133,"América","Mexico",1590
+"134",134,"Cerro Porteño","Paraguay",1588
+"135",135,"Apollon Limassol","Cyprus",1587
+"136",136,"Everton FC","England",1587
+"137",137,"København","Denmark",1587
+"138",138,"Red Bull Bragantino SP","Brazil",1586
+"139",139,"Nantes","France",1586
+"140",140,"TP Mazembe","Congo DR",1584
+"141",141,"Millonarios","Colombia",1584
+"142",142,"Auckland City","New Zealand",1582
+"143",143,"Molde FK","Norway",1581
+"144",144,"Nomme JK Kalju","Estonia",1581
+"145",145,"Monterrey","Mexico",1580
+"146",146,"Esperance de Tunis","Tunisia",1579
+"147",147,"Zorya Luhansk","Ukraine",1579
+"148",148,"CF Pachuca","Mexico",1578
+"149",149,"FC Midtjylland","Denmark",1578
+"150",150,"Al-Sadd","Qatar",1578
+"151",151,"FC Twente","Netherlands",1576
+"152",152,"Bodø / Glimt","Norway",1574
+"153",153,"Maccabi Haifa FC","Israel",1574
+"154",154,"Nacional","Uruguay",1573
+"155",155,"Steaua Bucureşti","Romania",1573
+"156",156,"Elche","Spain",1573
+"157",157,"Litex Lovech","Bulgaria",1573
+"158",158,"CSKA Moskva","Russia",1572
+"159",159,"LDU de Quito","Ecuador",1571
+"160",160,"Qarabağ","Azerbaijan",1571
+"161",161,"Esteghlal","Iran",1570
+"162",162,"Bologna","Italy",1569
+"163",163,"Augsburg","Germany",1569
+"164",164,"Slovácko","Czech Republic",1567
+"165",165,"Dinamo Moskva","Russia",1567
+"166",166,"Burnley","England",1567
+"167",167,"Bochum","Germany",1567
+"168",168,"Yokohama F. Marinos","Japan",1567
+"169",169,"Dacia Chisinau","Moldova",1567
+"170",170,"Gent","Belgium",1565
+"171",171,"FC Basel","Switzerland",1563
+"172",172,"Ferencváros","Hungary",1562
+"173",173,"Barcelona SC","Ecuador",1561
+"174",174,"Lanús","Argentina",1561
+"175",175,"Peñarol","Uruguay",1559
+"176",176,"VfB Stuttgart","Germany",1559
+"177",177,"RSC Anderlecht","Belgium",1559
+"178",178,"El Zamalek","Egypt",1557
+"179",179,"RCD Espanyol","Spain",1557
+"180",180,"Sampdoria","Italy",1556
+"181",181,"América Mineiro","Brazil",1556
+"182",182,"Portuguesa","Brazil",1554
+"183",183,"PFC CSKA Sofia","Bulgaria",1554
+"184",184,"SD Huesca","Spain",1553
+"185",185,"Emelec","Ecuador",1552
+"186",186,"Panathinaikos","Greece",1552
+"187",187,"Malmö FF","Sweden",1552
+"188",188,"Granada","Spain",1551
+"189",189,"Lokomotiv Astana","Kazakhstan",1549
+"190",190,"Osijek","Croatia",1549
+"191",191,"Bahia","Brazil",1548
+"192",192,"RCA Raja Casablanca Athletic","Morocco",1548
+"193",193,"Al Nassr","Saudi Arabia",1548
+"194",194,"Unión Santa Fe","Argentina",1547
+"195",195,"HJK Helsinki","Finland",1547
+"196",196,"Independiente","Argentina",1546
+"197",197,"Southampton","England",1545
+"198",198,"Lokomotiv Moskva","Russia",1544
+"199",199,"CR Belouizdad","Algeria",1544
+"200",200,"Bolívar","Bolivia",1542
+"201",201,"Universidad Católica","Ecuador",1542
+"202",202,"Girona","Spain",1542
+"203",203,"Atlético Nacional","Colombia",1542
+"204",204,"FC Krasnodar","Russia",1541
+"205",205,"Fortuna Düsseldorf","Germany",1541
+"206",206,"Hajduk Split","Croatia",1541
+"207",207,"KuPS","Finland",1540
+"208",208,"Maribor","Slovenia",1540
+"209",209,"Shanghai Port F.C.","China PR",1539
+"210",210,"Argentinos Juniors","Argentina",1539
+"211",211,"Hamburger SV","Germany",1539
+"212",212,"AIK","Sweden",1538
+"213",213,"Guaraní","Paraguay",1538
+"214",214,"Reims","France",1538
+"215",215,"Dnipro Dnipropetrovsk","Ukraine",1536
+"216",216,"Dinamo Minsk","Belarus",1536
+"217",217,"Huracán","Argentina",1533
+"218",218,"İstanbul Başakşehir","Turkey",1533
+"219",219,"Kashima Antlers","Japan",1532
+"220",220,"Union St.Gilloise","Belgium",1532
+"221",221,"Ingolstadt","Germany",1532
+"222",222,"Mallorca","Spain",1530
+"223",223,"AEK","Greece",1530
+"224",224,"Fortaleza","Colombia",1530
+"225",225,"APOEL Nicosia","Cyprus",1530
+"226",226,"Spartak Moskva","Russia",1530
+"227",227,"PFC Sochi","Russia",1530
+"228",228,"Atlas","Mexico",1529
+"229",229,"Carpi","Italy",1528
+"230",230,"Vita Club","Congo DR",1528
+"231",231,"Buriram United","Thailand",1527
+"232",232,"The Strongest","Bolivia",1527
+"233",233,"León","Mexico",1526
+"234",234,"Rayo Vallecano","Spain",1526
+"235",235,"Aris Thessaloniki FC","Greece",1526
+"236",236,"Cruz Azul","Mexico",1526
+"237",237,"Stoke City","England",1526
+"238",238,"CS Universitatea Craiova","Romania",1525
+"239",239,"Rosario Central","Argentina",1525
+"240",240,"Gimnasia y Esgrima La Plata","Argentina",1525
+"241",241,"LD Alajuelense","Costa Rica",1524
+"242",242,"Galatasaray","Turkey",1524
+"243",243,"AEK Larnaca","Cyprus",1523
+"244",244,"FBC Melgar","Peru",1522
+"245",245,"Guadalajara","Mexico",1522
+"246",246,"Omonia Nicosia","Cyprus",1521
+"247",247,"Olimpia","Honduras",1521
+"248",248,"Seattle Sounders FC","United States",1521
+"249",249,"Al-Ain FC","United Arab Emirates",1520
+"250",250,"Santos Laguna","Mexico",1520
+"251",251,"Rijeka","Croatia",1519
+"252",252,"Kairat Almaty","Kazakhstan",1519
+"253",253,"EC Juventude","Brazil",1519
+"254",254,"Colo Colo","Chile",1517
+"255",255,"Beşiktaş","Turkey",1517
+"256",256,"Eibar","Spain",1517
+"257",257,"KRC Genk","Belgium",1516
+"258",258,"Zalgiris Vilnius","Lithuania",1516
+"259",259,"Swansea City","England",1515
+"260",260,"Wigan Athletic","England",1515
+"261",261,"Al Shabab","Saudi Arabia",1514
+"262",262,"Olimpia","Paraguay",1514
+"263",263,"Levski Sofia","Bulgaria",1513
+"264",264,"Junior FC","Colombia",1513
+"265",265,"1º de Agosto","Angola",1512
+"266",266,"Genoa","Italy",1512
+"267",267,"AFC Bournemouth","England",1512
+"268",268,"Djurgården","Sweden",1512
+"269",269,"Club Atlético Platense","Argentina",1511
+"270",270,"Club Puebla","Mexico",1510
+"271",271,"Hertha BSC","Germany",1510
+"272",272,"Al Hilal Omdurman","Sudan",1510
+"273",273,"Real Valladolid","Spain",1509
+"274",274,"Sepahan","Iran",1508
+"275",275,"DSC Arminia Bielefeld","Germany",1508
+"276",276,"Cuiaba","Brazil",1508
+"277",277,"Pakhtakor Tashkent","Uzbekistan",1508
+"278",278,"Sport Recife","Brazil",1507
+"279",279,"Anorthosis","Cyprus",1505
+"280",280,"Sporting Gijón","Spain",1504
+"281",281,"FC Utrecht","Netherlands",1504
+"282",282,"Royal Antwerp FC","Belgium",1503
+"283",283,"Etoile du Sahel","Tunisia",1503
+"284",284,"Dynamos","Zimbabwe",1503
+"285",285,"Lech Poznań","Poland",1502
+"286",286,"ASD Spezia Calcio 2008","Italy",1502
+"287",287,"Timişoara","Romania",1502
+"288",288,"Al Ittihad","Saudi Arabia",1501
+"289",289,"Neath Athletic","Wales",1501
+"290",290,"Hapoel Be'er Sheva","Israel",1499
+"291",291,"Hammarby IF","Sweden",1499
+"292",292,"Birmingham City","England",1498
+"293",293,"Team Wellington","New Zealand",1498
+"294",294,"Vitesse","Netherlands",1498
+"295",295,"Empoli FC","Italy",1498
+"296",296,"Zrinjski Mostar","Bosnia and Herzegovina",1497
+"297",297,"Deportivo Alaves","Spain",1497
+"298",298,"Club Sport Herediano","Costa Rica",1497
+"299",299,"Rapid Wien","Austria",1496
+"300",300,"Colón Santa Fe","Argentina",1496
+"301",301,"Werder Bremen","Germany",1496
+"302",302,"Cruzeiro","Brazil",1495
+"303",303,"Sporting Cristal","Peru",1494
+"304",304,"Vitória Guimarães","Portugal",1494
+"305",305,"Catania","Italy",1494
+"306",306,"CSD Comunicaciones","Guatemala",1493
+"307",307,"Atletico Petro Luanda","Angola",1492
+"308",308,"Vasco da Gama","Brazil",1492
+"309",309,"Deportivo Xerez","Spain",1491
+"310",310,"Goiás","Brazil",1491
+"311",311,"Stade Malien Bamako","Mali",1490
+"312",312,"Zürich","Switzerland",1490
+"313",313,"Sochaux","France",1490
+"314",314,"MOL Fehérvár FC","Hungary",1490
+"315",315,"Olimpija Ljubljana","Slovenia",1489
+"316",316,"Dundalk FC","Ireland",1489
+"317",317,"Monarcas Morelia","Mexico",1488
+"318",318,"Baník Ostrava","Czech Republic",1488
+"319",319,"Konyaspor","Turkey",1488
+"320",320,"Brest","France",1487
+"321",321,"Deportivo Cali","Colombia",1487
+"322",322,"Pyramids FC","Egypt",1487
+"323",323,"Cagliari","Italy",1487
+"324",324,"Alianza FC","El Salvador",1486
+"325",325,"Al-Merreikh","Sudan",1486
+"326",326,"Deportivo La Coruña","Spain",1486
+"327",327,"Čukarički","Serbia",1485
+"328",328,"Gil Vicente FC","Portugal",1485
+"329",329,"Connah's Quay","Wales",1484
+"330",330,"Liverpool","Uruguay",1483
+"331",331,"SC Dnipro-1","Ukraine",1482
+"332",332,"Pumas UNAM","Mexico",1482
+"333",333,"Alanyaspor","Turkey",1482
+"334",334,"Godoy Cruz Antonio Tomba","Argentina",1481
+"335",335,"U.S. Salernitana 1919","Italy",1481
+"336",336,"Sturm Graz","Austria",1481
+"337",337,"Jiangsu Suning FC","China PR",1481
+"338",338,"Sivasspor","Turkey",1479
+"339",339,"Rosenborg BK","Norway",1479
+"340",340,"Coton Sport","Cameroon",1479
+"341",341,"Motagua","Honduras",1478
+"342",342,"Al Ahli","United Arab Emirates",1478
+"343",343,"Independiente Medellín","Colombia",1478
+"344",344,"CSD Municipal","Guatemala",1478
+"345",345,"CS Sfaxien","Tunisia",1478
+"346",346,"Universidad Católica","Chile",1478
+"347",347,"West Brom","England",1478
+"348",348,"BG Pathum United","Thailand",1477
+"349",349,"FC Infonet Tallinn","Estonia",1476
+"350",350,"Pohang Steelers","South Korea",1476
+"351",351,"LASK Linz","Austria",1476
+"352",352,"Newell's Old Boys","Argentina",1476
+"353",353,"San Lorenzo de Almagro","Argentina",1476
+"354",354,"Cherno More Varna","Bulgaria",1475
+"355",355,"Bolton Wanderers","England",1475
+"356",356,"Lecce","Italy",1475
+"357",357,"Coritiba","Brazil",1474
+"358",358,"Belgrano","Argentina",1474
+"359",359,"Neftçi","Azerbaijan",1474
+"360",360,"AEL Limassol","Cyprus",1473
+"361",361,"CD Santa Clara","Portugal",1473
+"362",362,"CA Central Cordoba","Argentina",1473
+"363",363,"Montpellier","France",1473
+"364",364,"Cardiff City","England",1472
+"365",365,"Urawa Red Diamonds","Japan",1472
+"366",366,"KS Raków Częstochowa","Poland",1472
+"367",367,"Rubin Kazan","Russia",1471
+"368",368,"IFK Norrköping","Sweden",1470
+"369",369,"Real Zaragoza","Spain",1470
+"370",370,"ASEC Mimosas","Ivory Coast",1470
+"371",371,"Paide Linnameeskond","Estonia",1470
+"372",372,"Hull City","England",1470
+"373",373,"Budućnost","Montenegro",1470
+"374",374,"Suduva Marijampole","Lithuania",1469
+"375",375,"ES Sétif","Algeria",1469
+"376",376,"Nasaf Qarshi","Uzbekistan",1469
+"377",377,"Blackpool","England",1469
+"378",378,"FC Famalicão","Portugal",1469
+"379",379,"Sheffield United FC","England",1468
+"380",380,"New York City FC","United States",1468
+"381",381,"Santa Fe","Colombia",1468
+"382",382,"Aucas","Ecuador",1468
+"383",383,"Dolphins FC","Nigeria",1468
+"384",384,"Elfsborg","Sweden",1468
+"385",385,"Darmstadt","Germany",1467
+"386",386,"San Martín San Juan","Argentina",1466
+"387",387,"FC Milsami Orhei","Moldova",1466
+"388",388,"Tenerife","Spain",1465
+"389",389,"Spartak Trnava","Slovakia",1465
+"390",390,"Pogoń Szczecin","Poland",1465
+"391",391,"SC Bastia","France",1464
+"392",392,"Angers","France",1464
+"393",393,"MP Antalyaspor","Turkey",1464
+"394",394,"Viking FK","Norway",1464
+"395",395,"Djoliba AC","Mali",1463
+"396",396,"Cerezo Osaka","Japan",1463
+"397",397,"Ružomberok","Slovakia",1463
+"398",398,"Sporting Fingal","Ireland",1463
+"399",399,"FK Akhmat Grozny","Russia",1463
+"400",400,"Tobol Kostanay","Kazakhstan",1463
+"401",401,"Sillamäe Kalev","Estonia",1462
+"402",402,"BK Häcken","Sweden",1462
+"403",403,"Troyes","France",1462
+"404",404,"Auxerre","France",1461
+"405",405,"Daegu FC","South Korea",1460
+"406",406,"Universitario de Deportes","Peru",1460
+"407",407,"Aldosivi","Argentina",1460
+"408",408,"Banfield","Argentina",1460
+"409",409,"Brasilia","Brazil",1459
+"410",410,"JS Saoura","Algeria",1459
+"411",411,"Almería","Spain",1459
+"412",412,"Kasımpaşa","Turkey",1459
+"413",413,"Blackburn Rovers F.C.","England",1459
+"414",414,"JS Kabylie","Algeria",1458
+"415",415,"Dunajska Streda","Slovakia",1458
+"416",416,"Fulham","England",1457
+"417",417,"Nagoya Grampus Eight","Japan",1457
+"418",418,"Universidad César Vallejo","Peru",1457
+"419",419,"Ñublense","Chile",1457
+"420",420,"Olympiakos Volos","Greece",1457
+"421",421,"Vorskla Poltava","Ukraine",1457
+"422",422,"Delfin SC","Ecuador",1457
+"423",423,"Novara","Italy",1456
+"424",424,"FC Vaslui","Romania",1456
+"425",425,"Györi ETO","Hungary",1455
+"426",426,"Unión Española","Chile",1455
+"427",427,"Siena","Italy",1455
+"428",428,"Eintracht Braunschweig","Germany",1454
+"429",429,"KF Shkendija","Macedonia",1454
+"430",430,"Sanfrecce Hiroshima","Japan",1454
+"431",431,"Legia Warszawa","Poland",1453
+"432",432,"La Equidad","Colombia",1453
+"433",433,"Cienciano","Peru",1453
+"434",434,"Brøndby","Denmark",1453
+"435",435,"Philadelphia Union","United States",1452
+"436",436,"Tigre","Argentina",1452
+"437",437,"Al Wahda","United Arab Emirates",1452
+"438",438,"Tiraspol","Moldova",1452
+"439",439,"Foolad Khuzestan","Iran",1452
+"440",440,"Always Ready","Bolivia",1451
+"441",441,"Los Angeles FC","United States",1451
+"442",442,"Necaxa","Mexico",1451
+"443",443,"Ponte Preta","Brazil",1451
+"444",444,"Lokomotiv Plovdiv","Bulgaria",1451
+"445",445,"Bala Town FC","Wales",1451
+"446",446,"Bidvest Wits","South Africa",1451
+"447",447,"SC Paderborn 07","Germany",1451
+"448",448,"Orlando Pirates","South Africa",1450
+"449",449,"Botafogo FR","Brazil",1449
+"450",450,"Pafos FC","Cyprus",1449
+"451",451,"FK Desna Chernihiv","Ukraine",1449
+"452",452,"Sporting Charleroi","Belgium",1449
+"453",453,"Shandong Taishan F.C.","China PR",1448
+"454",454,"USM Alger","Algeria",1448
+"455",455,"Queens Park Rangers","England",1448
+"456",456,"Nîmes Olympique","France",1447
+"457",457,"Dinamo Tbilisi","Georgia",1447
+"458",458,"Nueva Chicago","Argentina",1447
+"459",459,"FK Sarajevo","Bosnia and Herzegovina",1447
+"460",460,"Lorient","France",1447
+"461",461,"Málaga","Spain",1446
+"462",462,"Jeju United","South Korea",1445
+"463",463,"Muangthong United","Thailand",1445
+"464",464,"Sutjeska","Montenegro",1444
+"465",465,"Rio Ave","Portugal",1443
+"466",466,"CS Petrocub","Moldova",1443
+"467",467,"Middlesbrough","England",1443
+"468",468,"Beijing Guoan","China PR",1442
+"469",469,"Montevideo Wanderers","Uruguay",1442
+"470",470,"Vitória","Brazil",1442
+"471",471,"Iskra-Stal","Moldova",1441
+"472",472,"Jablonec","Czech Republic",1441
+"473",473,"Smouha SC","Egypt",1441
+"474",474,"San Martín de Tucumán","Argentina",1441
+"475",475,"Beroe","Bulgaria",1441
+"476",476,"Mladá Boleslav","Czech Republic",1441
+"477",477,"Patronato de Parana","Argentina",1440
+"478",478,"Plateau United","Nigeria",1440
+"479",479,"Deportivo Saprissa","Costa Rica",1440
+"480",480,"FK Rostov","Russia",1440
+"481",481,"KV Mechelen","Belgium",1439
+"482",482,"Nancy","France",1439
+"483",483,"Alianza Lima","Peru",1439
+"484",484,"Evian TG","France",1439
+"485",485,"GFC Ajaccio","France",1438
+"486",486,"AL Ahed","Lebanon",1438
+"487",487,"Piast Gliwice","Poland",1438
+"488",488,"Boavista","Portugal",1438
+"489",489,"Caracas","Venezuela",1438
+"490",490,"New England Revolution","United States",1437
+"491",491,"Fatih Karagümrük","Turkey",1437
+"492",492,"Real España","Honduras",1437
+"493",493,"Santo André","Brazil",1437
+"494",494,"FC St. Gallen 1879","Switzerland",1436
+"495",495,"SK Sigma Olomouc","Czech Republic",1436
+"496",496,"FC Tokyo","Japan",1436
+"497",497,"Oleksandriya","Ukraine",1436
+"498",498,"Sparta Rotterdam","Netherlands",1435
+"499",499,"Toluca FC","Mexico",1435
+"500",500,"Saint-Étienne","France",1434
+"501",501,"Botev Plovdiv","Bulgaria",1434
+"502",502,"Saint-Eloi Lupopo","Congo DR",1434
+"503",503,"Metalist Kharkiv","Ukraine",1434
+"504",504,"Akwa United","Nigeria",1434
+"505",505,"Bangkok United","Thailand",1434
+"506",506,"Figueirense","Brazil",1434
+"507",507,"Motema Pembe","Congo DR",1433
+"508",508,"FC Inter Turku (FIN)","Finland",1433
+"509",509,"Domžale","Slovenia",1433
+"510",510,"Metalurh Donetsk","Ukraine",1432
+"511",511,"Bangor City","Wales",1432
+"512",512,"Deportivo Táchira","Venezuela",1432
+"513",513,"Asante Kotoko","Ghana",1432
+"514",514,"Sunderland","England",1432
+"515",515,"Sepsi OSK","Romania",1432
+"516",516,"Club Atletico Torque","Uruguay",1432
+"517",517,"Wolfsberger AC","Austria",1431
+"518",518,"Reading","England",1431
+"519",519,"Hércules","Spain",1431
+"520",520,"Derry City","Ireland",1431
+"521",521,"Club Africain","Tunisia",1430
+"522",522,"Dempo SC","India",1430
+"523",523,"Puskás FC","Hungary",1429
+"524",524,"Enyimba","Nigeria",1429
+"525",525,"Hannover 96","Germany",1429
+"526",526,"Enugu Rangers","Nigeria",1429
+"527",527,"Paços de Ferreira","Portugal",1429
+"528",528,"Venezia FC","Italy",1428
+"529",529,"Portsmouth","England",1428
+"530",530,"Clermont Foot","France",1428
+"531",531,"Vissel Kobe","Japan",1428
+"532",532,"Mura 05","Slovenia",1427
+"533",533,"GOL Gohar Sirjan FC","Iran",1427
+"534",534,"Honka","Finland",1427
+"535",535,"Guangzhou F.C.","China PR",1427
+"536",536,"Nashville SC","United States",1427
+"537",537,"El Jaish (Doha)","Qatar",1427
+"538",538,"SC Heerenveen","Netherlands",1426
+"539",539,"Linfield","Northern Ireland",1426
+"540",540,"Amiens SC","France",1426
+"541",541,"Guaireña FC","Paraguay",1426
+"542",542,"Krylya Sovetov Samara","Russia",1425
+"543",543,"FC Ural","Russia",1425
+"544",544,"Koper","Slovenia",1425
+"545",545,"Al-Wehdat SC","Jordan",1425
+"546",546,"FAR Rabat","Morocco",1425
+"547",547,"Club Atlético Bucaramanga","Colombia",1424
+"548",548,"Arsenal de Sarandí","Argentina",1424
+"549",549,"Curicó Unido","Chile",1424
+"550",550,"River Plate","Uruguay",1424
+"551",551,"Sint-Truiden","Belgium",1424
+"552",552,"Austria Wien","Austria",1424
+"553",553,"Slovan Liberec","Czech Republic",1423
+"554",554,"East Bengal Club","India",1423
+"555",555,"Bohemian FC","Ireland",1423
+"556",556,"Guarani FC","Brazil",1422
+"557",557,"All Boys","Argentina",1422
+"558",558,"Lugano","Switzerland",1421
+"559",559,"Hatayspor Kulübü","Turkey",1421
+"560",560,"Metz","France",1421
+"561",561,"Deportivo Heredia","Guatemala",1421
+"562",562,"Lechia Gdańsk","Poland",1421
+"563",563,"Everton CD","Chile",1420
+"564",564,"Atlético Rafaela","Argentina",1420
+"565",565,"Bordeaux","France",1420
+"566",566,"St. Pauli","Germany",1420
+"567",567,"Mazatlán FC","Mexico",1419
+"568",568,"Radnički Niš","Serbia",1419
+"569",569,"Kaiserslautern","Germany",1419
+"570",570,"Antigua Guatemala","Guatemala",1419
+"571",571,"América de Cali","Colombia",1419
+"572",572,"Olympique de Bamako","Mali",1419
+"573",573,"Plaza Colonia","Uruguay",1419
+"574",574,"Highlanders","Zimbabwe",1419
+"575",575,"Mohun Bagan","India",1417
+"576",576,"Kaizer Chiefs","South Africa",1417
+"577",577,"St Patrick's","Ireland",1417
+"578",578,"Adana Demirspor","Turkey",1417
+"579",579,"Moskva","Russia",1416
+"580",580,"FC Ruh Brest","Belarus",1416
+"581",581,"Crotone","Italy",1416
+"582",582,"Cobresal","Chile",1416
+"583",583,"FC Groningen","Netherlands",1416
+"584",584,"Guingamp","France",1415
+"585",585,"CS Marítimo Madeira","Portugal",1415
+"586",586,"AS Réal Bamako","Mali",1415
+"587",587,"Watford","England",1413
+"588",588,"Querétaro","Mexico",1413
+"589",589,"Lillestrøm","Norway",1412
+"590",590,"Santa Cruz","Brazil",1412
+"591",591,"New York Red Bulls","United States",1412
+"592",592,"Unión La Calera","Chile",1412
+"593",593,"Viitorul Constanţa","Romania",1412
+"594",594,"Sagan Tosu","Japan",1412
+"595",595,"Gunners","Zimbabwe",1411
+"596",596,"CS Constantine","Algeria",1411
+"597",597,"Amkar Perm'","Russia",1411
+"598",598,"Ordabasy Shymkent","Kazakhstan",1411
+"599",599,"Al-Rayyan","Qatar",1410
+"600",600,"IFK Göteborg","Sweden",1410
+"601",601,"Audax Italiano La Florida","Chile",1409
+"602",602,"RSB Berkane","Morocco",1409
+"603",603,"ZESCO United","Zambia",1409
+"604",604,"Boston River","Uruguay",1409
+"605",605,"Atlético Tucumán","Argentina",1409
+"606",606,"FC Kolos Kovalivka","Ukraine",1408
+"607",607,"Benevento","Italy",1408
+"608",608,"Guastatoya","Guatemala",1408
+"609",609,"Mahindra United","India",1408
+"610",610,"ENPPI","Egypt",1407
+"611",611,"Melbourne City FC","Australia",1407
+"612",612,"Macará","Ecuador",1407
+"613",613,"Suwon Bluewings","South Korea",1407
+"614",614,"Kisvárda Master Good","Hungary",1407
+"615",615,"Sol de América","Paraguay",1407
+"616",616,"Vojvodina","Serbia",1407
+"617",617,"Heart of Midlothian","Scotland",1407
+"618",618,"Botoşani","Romania",1407
+"619",619,"Kuban' Krasnodar","Russia",1406
+"620",620,"Palestino","Chile",1406
+"621",621,"Le Mans","France",1406
+"622",622,"Maccabi Netanya","Israel",1406
+"623",623,"Gazişehir Gaziantep FK","Turkey",1406
+"624",624,"Envigado","Colombia",1406
+"625",625,"Criciúma","Brazil",1405
+"626",626,"River Plate PR","Puerto Rico",1405
+"627",627,"NŠ Mura","Slovenia",1405
+"628",628,"Joinville EC","Brazil",1404
+"629",629,"Fénix","Uruguay",1404
+"630",630,"Chicken Inn FC","Zimbabwe",1404
+"631",631,"Frosinone","Italy",1404
+"632",632,"FC Brest","Belarus",1404
+"633",633,"Sport Huancayo","Peru",1403
+"634",634,"Atlético San Luis","Mexico",1403
+"635",635,"Al Taawon","Saudi Arabia",1403
+"636",636,"Nacional Asunción","Paraguay",1403
+"637",637,"Rigas Futbola skola","Latvia",1403
+"638",638,"MC Alger","Algeria",1402
+"639",639,"Al-Ahli","Saudi Arabia",1402
+"640",640,"Asteras Tripolis","Greece",1402
+"641",641,"Žilina","Slovakia",1402
+"642",642,"Ilves","Finland",1402
+"643",643,"Lokomotiv Tashkent","Uzbekistan",1402
+"644",644,"Portland Timbers","United States",1402
+"645",645,"Portimonense","Portugal",1402
+"646",646,"Deportivo Malacateco","Guatemala",1401
+"647",647,"Cartaginés","Costa Rica",1401
+"648",648,"Gimcheon Sangmu FC","South Korea",1401
+"649",649,"Vålerenga","Norway",1401
+"650",650,"FC Dinamo Batumi","Georgia",1400
+"651",651,"US Monastir","Tunisia",1400
+"652",652,"Once Caldas","Colombia",1400
+"653",653,"Schalke 04","Germany",1400
+"654",654,"Luzern","Switzerland",1400
+"655",655,"Veres Rivne","Ukraine",1400
+"656",656,"Kashiwa Reysol","Japan",1400
+"657",657,"Saturn","Russia",1399
+"658",658,"Temperley","Argentina",1399
+"659",659,"Resistencia Sport Club","Paraguay",1399
+"660",660,"Grenoble","France",1399
+"661",661,"CD Antofagasta","Chile",1398
+"662",662,"FC Seoul","South Korea",1398
+"663",663,"Tractor Sazi","Iran",1398
+"664",664,"Željezničar","Bosnia and Herzegovina",1398
+"665",665,"Bamboutos","Cameroon",1398
+"666",666,"Bari","Italy",1398
+"667",667,"Sharjah Cultural Club","United Arab Emirates",1397
+"668",668,"RKC Waalwijk","Netherlands",1397
+"669",669,"HNK Gorica","Croatia",1397
+"670",670,"Cape Town City FC","South Africa",1397
+"671",671,"Palermo","Italy",1397
+"672",672,"Deportivo Cuenca","Ecuador",1397
+"673",673,"FC Emmen","Netherlands",1397
+"674",674,"Kano Pillars","Nigeria",1397
+"675",675,"Huachipato","Chile",1396
+"676",676,"Greuther Fürth","Germany",1396
+"677",677,"Defensor Sporting","Uruguay",1396
+"678",678,"Ionikos","Greece",1395
+"679",679,"PFC Lokomotiv Sofia 1929","Bulgaria",1395
+"680",680,"Astra Ploieşti","Romania",1395
+"681",681,"Moreirense","Portugal",1395
+"682",682,"Bunyodkor Tashkent","Uzbekistan",1395
+"683",683,"Motor Action","Zimbabwe",1394
+"684",684,"Boulogne","France",1394
+"685",685,"CS Alagoano AL","Brazil",1394
+"686",686,"Estoril","Portugal",1394
+"687",687,"Gamba Osaka","Japan",1394
+"688",688,"Danubio","Uruguay",1394
+"689",689,"Caen","France",1394
+"690",690,"NK Celje","Slovenia",1394
+"691",691,"Alianza Petrolera","Colombia",1394
+"692",692,"Astres FC de Douala","Cameroon",1393
+"693",693,"FUS Rabat","Morocco",1393
+"694",694,"Interclube de Angola","Angola",1393
+"695",695,"Independiente FBC (Campo Grande)","Paraguay",1393
+"696",696,"Grêmio Prudente","Brazil",1393
+"697",697,"Sydney FC","Australia",1393
+"698",698,"Sligo Rovers","Ireland",1392
+"699",699,"Pune FC","India",1392
+"700",700,"Mushuc Runa SC","Ecuador",1392
+"701",701,"Lokomotiva","Croatia",1392
+"702",702,"Slavia Sofia","Bulgaria",1392
+"703",703,"Nürnberg","Germany",1391
+"704",704,"O'Higgins","Chile",1391
+"705",705,"FC Platinum","Zimbabwe",1391
+"706",706,"Al-Jazira","United Arab Emirates",1391
+"707",707,"Cork City","Ireland",1391
+"708",708,"Cercle Brugge","Belgium",1390
+"709",709,"FC Orenburg","Russia",1390
+"710",710,"Paksi SE","Hungary",1390
+"711",711,"Topolski Sportski Club","Serbia",1390
+"712",712,"Heracles","Netherlands",1390
+"713",713,"Universidad de Chile","Chile",1390
+"714",714,"Riga FC","Latvia",1390
+"715",715,"Atlanta United FC","United States",1390
+"716",716,"Polonia Warszawa","Poland",1390
+"717",717,"Royal Pari","Bolivia",1389
+"718",718,"Chaves","Portugal",1389
+"719",719,"Las Palmas","Spain",1389
+"720",720,"FC Ufa","Russia",1389
+"721",721,"Port F.C.","Thailand",1389
+"722",722,"NK Bravo","Slovenia",1389
+"723",723,"Columbus Crew","United States",1389
+"724",724,"Borac Banja Luka","Bosnia and Herzegovina",1388
+"725",725,"AaB","Denmark",1388
+"726",726,"Bohemians 1905","Czech Republic",1388
+"727",727,"Mjällby AIF","Sweden",1388
+"728",728,"SC Farense","Portugal",1387
+"729",729,"Rapid Bucureşti","Romania",1387
+"730",730,"Águila","El Salvador",1387
+"731",731,"Valenciennes","France",1387
+"732",732,"Torpedo Zhodino","Belarus",1386
+"733",733,"Colorado Rapids","United States",1386
+"734",734,"Club Tijuana","Mexico",1386
+"735",735,"Chernomorets Burgas","Bulgaria",1386
+"736",736,"AS Nika","Congo DR",1385
+"737",737,"Racing Santander","Spain",1385
+"738",738,"Parma Calcio 1913","Italy",1385
+"739",739,"Carlos A. Mannucci","Peru",1385
+"740",740,"Kavala","Greece",1384
+"741",741,"Široki Brijeg","Bosnia and Herzegovina",1384
+"742",742,"MC Oran","Algeria",1384
+"743",743,"Orense SC","Ecuador",1384
+"744",744,"Union Sportive de Douala","Cameroon",1384
+"745",745,"Maghreb Fès","Morocco",1383
+"746",746,"Fortuna Sittard","Netherlands",1383
+"747",747,"Gomel","Belarus",1383
+"748",748,"Recreativo do Libolo","Angola",1383
+"749",749,"Persib Bandung","Indonesia",1383
+"750",750,"Supersport United","South Africa",1383
+"751",751,"Hradec Králové","Czech Republic",1383
+"752",752,"Avaí FC","Brazil",1383
+"753",753,"Norwich City","England",1382
+"754",754,"Nacional Potosí","Bolivia",1382
+"755",755,"FC Vizela","Portugal",1382
+"756",756,"Kabuscorp SCP","Angola",1382
+"757",757,"Gyeongnam FC","South Korea",1382
+"758",758,"FC Dallas","United States",1382
+"759",759,"Incheon United","South Korea",1382
+"760",760,"NEC Nijmegen","Netherlands",1382
+"761",761,"Paradou AC","Algeria",1382
+"762",762,"Al Masry","Egypt",1381
+"763",763,"Séwé","Ivory Coast",1381
+"764",764,"Lobos B.U.A.P.","Mexico",1381
+"765",765,"Ironi Kiryat Schmona","Israel",1380
+"766",766,"Águilas Doradas","Colombia",1380
+"767",767,"Universidad Concepción","Chile",1380
+"768",768,"Club Deportivo Maldonado","Uruguay",1380
+"769",769,"Voždovac","Serbia",1379
+"770",770,"CD Jaguares","Colombia",1379
+"771",771,"Jorge Wilstermann","Bolivia",1379
+"772",772,"Hapoel Tel Aviv","Israel",1379
+"773",773,"Hearts of Oak","Ghana",1378
+"774",774,"Kalmar FF","Sweden",1378
+"775",775,"Consadole Sapporo","Japan",1378
+"776",776,"Al Fateh FC","Saudi Arabia",1378
+"777",777,"Qäbälä","Azerbaijan",1377
+"778",778,"CS Deportivo Pereira","Colombia",1377
+"779",779,"Chievo Verona","Italy",1377
+"780",780,"FK Pardubice","Czech Republic",1377
+"781",781,"Real Estelí","Nicaragua",1376
+"782",782,"Bursaspor","Turkey",1376
+"783",783,"Persipura Jayapura","Indonesia",1376
+"784",784,"Kwara United","Nigeria",1376
+"785",785,"UMS de Loum","Cameroon",1376
+"786",786,"Servette","Switzerland",1376
+"787",787,"Paraná Clube","Brazil",1376
+"788",788,"Al Ahly Shendi","Sudan",1376
+"789",789,"Shanghai Shenhua","China PR",1376
+"790",790,"Al Nasr","United Arab Emirates",1376
+"791",791,"Sevilla FC Puerto Rico","Puerto Rico",1375
+"792",792,"Nueve de Octubre","Ecuador",1375
+"793",793,"Brescia","Italy",1375
+"794",794,"Újpest","Hungary",1375
+"795",795,"Hibernian","Scotland",1375
+"796",796,"Real Salt Lake","United States",1375
+"797",797,"Defence Force FC","Trinidad and Tobago",1375
+"798",798,"Club Atletico Progreso","Uruguay",1374
+"799",799,"Eding Sport FC","Cameroon",1374
+"800",800,"Cerro Largo","Uruguay",1374
+"801",801,"Willem II","Netherlands",1374
+"802",802,"Young Sport Academy Bamenda","Cameroon",1374
+"803",803,"PAS Giannina","Greece",1374
+"804",804,"Arsenal Tula","Russia",1374
+"805",805,"Seinaejoen JK","Finland",1373
+"806",806,"Bali United","Indonesia",1373
+"807",807,"Giresunspor","Turkey",1373
+"808",808,"Randers FC","Denmark",1373
+"809",809,"Tauro FC","Panama",1373
+"810",810,"Osmanlıspor FK","Turkey",1373
+"811",811,"Neman Grodno","Belarus",1373
+"812",812,"FC CSKA 1948 Sofia","Bulgaria",1373
+"813",813,"CAPS United","Zimbabwe",1372
+"814",814,"Cracovia Kraków","Poland",1372
+"815",815,"Salgaocar","India",1372
+"816",816,"Changchun Yatai","China PR",1372
+"817",817,"Nejmeh SC","Lebanon",1372
+"818",818,"River Plate Ecuador","Ecuador",1371
+"819",819,"Kayserispor","Turkey",1371
+"820",820,"Vitória Setúbal","Portugal",1371
+"821",821,"ASO Chlef","Algeria",1371
+"822",822,"Leones Negros U. de G.","Mexico",1371
+"823",823,"Arema","Indonesia",1371
+"824",824,"Al-Faisaly FC Harmah","Saudi Arabia",1371
+"825",825,"Deportivo Pasto","Colombia",1370
+"826",826,"FC Torpedo Moscow","Russia",1370
+"827",827,"Sarmiento","Argentina",1370
+"828",828,"Pandurii Târgu Jiu","Romania",1370
+"829",829,"El Geish","Egypt",1370
+"830",830,"Hekari United","Papua New Guinea",1370
+"831",831,"Hassania Agadir","Morocco",1370
+"832",832,"Ajaccio","France",1369
+"833",833,"Standard Liège","Belgium",1369
+"834",834,"CD Vida","Honduras",1369
+"835",835,"Al Khartoum SC","Sudan",1369
+"836",836,"Deportes Temuco","Chile",1369
+"837",837,"Livingston FC","Scotland",1369
+"838",838,"Rukh Vynnyky","Ukraine",1369
+"839",839,"AmaZulu FC","South Africa",1369
+"840",840,"Sporting Kansas City","United States",1368
+"841",841,"PEC Zwolle","Netherlands",1368
+"842",842,"Nasarawa United","Nigeria",1368
+"843",843,"Ashanti Gold FC","Ghana",1368
+"844",844,"Minnesota United","United States",1368
+"845",845,"Samsunspor","Turkey",1367
+"846",846,"12 de Octubre de Itaugua","Paraguay",1367
+"847",847,"Beitar Jerusalem FC","Israel",1367
+"848",848,"Strømsgodset","Norway",1367
+"849",849,"Jeanne d'Arc de Bamako","Mali",1367
+"850",850,"Al-Ittihad","Libya",1367
+"851",851,"Iraklis","Greece",1367
+"852",852,"Irtysh Pavlodar","Kazakhstan",1367
+"853",853,"AGF","Denmark",1367
+"854",854,"Unisport FC Du Haut-Nkam","Cameroon",1367
+"855",855,"Stade Renard de Melong","Cameroon",1367
+"856",856,"Excelsior","Netherlands",1366
+"857",857,"AL Ansar SC","Lebanon",1366
+"858",858,"FC Veris","Moldova",1366
+"859",859,"FC Arda Kardzhali","Bulgaria",1366
+"860",860,"Waitakere United","New Zealand",1366
+"861",861,"Volos New Football Club","Greece",1366
+"862",862,"Thun","Switzerland",1366
+"863",863,"CD Plaza Amador","Panama",1366
+"864",864,"Hwange","Zimbabwe",1365
+"865",865,"Coban Imperial","Guatemala",1365
+"866",866,"Apejes de Mfou","Cameroon",1365
+"867",867,"Marathón","Honduras",1364
+"868",868,"FK Zirka Kirovohrad","Ukraine",1364
+"869",869,"Nordsjælland","Denmark",1364
+"870",870,"Zanaco","Zambia",1364
+"871",871,"Olympiakos Nicosia","Cyprus",1364
+"872",872,"Canon Sportif","Cameroon",1364
+"873",873,"CF Montreal","Canada",1364
+"874",874,"Chiangrai United","Thailand",1363
+"875",875,"Gornik Zabrze","Poland",1363
+"876",876,"Mes Rafsanjan","Iran",1363
+"877",877,"Córdoba CF","Spain",1363
+"878",878,"Aris Limassol","Cyprus",1362
+"879",879,"Sarpsborg 08","Norway",1362
+"880",880,"Aduana Stars","Ghana",1362
+"881",881,"Aktobe","Kazakhstan",1362
+"882",882,"Atromitos","Greece",1362
+"883",883,"FC Lahti","Finland",1362
+"884",884,"Sunshine Stars","Nigeria",1361
+"885",885,"Cliftonville","Northern Ireland",1361
+"886",886,"Mouscron-Péruwelz","Belgium",1361
+"887",887,"Aberdeen","Scotland",1361
+"888",888,"Chonburi FC","Thailand",1361
+"889",889,"Lobi Stars","Nigeria",1361
+"890",890,"Cobreloa","Chile",1361
+"891",891,"Sagrada Esperança","Angola",1361
+"892",892,"Colombe du Dja et Lobo","Cameroon",1361
+"893",893,"AL Ettifaq FC","Saudi Arabia",1361
+"894",894,"Sanga Balende","Congo DR",1360
+"895",895,"Persija Jakarta","Indonesia",1360
+"896",896,"Future FC","Egypt",1360
+"897",897,"Lamontville Golden Arrows","South Africa",1360
+"898",898,"Stellenbosch FC","South Africa",1360
+"899",899,"Newtown","Wales",1360
+"900",900,"Deportiva San Carlos","Costa Rica",1359
+"901",901,"Trenčín","Slovakia",1359
+"902",902,"Sion","Switzerland",1359
+"903",903,"Churchill Brothers SC","India",1359
+"904",904,"Xanthi FC","Greece",1359
+"905",905,"Crusaders","Northern Ireland",1359
+"906",906,"Cesena","Italy",1359
+"907",907,"Arouca","Portugal",1359
+"908",908,"Feutcheu FC","Cameroon",1359
+"909",909,"Rubio Ñú","Paraguay",1359
+"910",910,"Eastern Suburbs","New Zealand",1359
+"911",911,"FK Radnik Surdulica","Serbia",1358
+"912",912,"Medeama SC","Ghana",1358
+"913",913,"Técnico Universitario","Ecuador",1358
+"914",914,"Gualaceo SC","Ecuador",1358
+"915",915,"Huddersfield Town","England",1358
+"916",916,"Quilmes","Argentina",1358
+"917",917,"Santa Lucia Cotzumalguapa","Guatemala",1358
+"918",918,"AS Fortuna","Cameroon",1358
+"919",919,"Jaguares Chiapas","Mexico",1358
+"920",920,"FC Nizhny Novgorod","Russia",1357
+"921",921,"CA Bizertin","Tunisia",1357
+"922",922,"Fovu de Baham","Cameroon",1357
+"923",923,"Honvéd","Hungary",1357
+"924",924,"Deportivo Binacional","Peru",1357
+"925",925,"Abia Warriors","Nigeria",1357
+"926",926,"Diriangén FC","Nicaragua",1357
+"927",927,"FK Riteriai","Lithuania",1357
+"928",928,"FC Skonto Riga","Latvia",1357
+"929",929,"Gangwon FC","South Korea",1357
+"930",930,"Bhayangkara FC","Indonesia",1357
+"931",931,"Difaâ El Jadida","Morocco",1357
+"932",932,"Deportivo Lara","Venezuela",1356
+"933",933,"Gostaresh Foolad","Iran",1356
+"934",934,"Eastern Stars","Papua New Guinea",1356
+"935",935,"Belenenses","Portugal",1356
+"936",936,"Oud-Heverlee Leuven","Belgium",1356
+"937",937,"Elazığspor","Turkey",1356
+"938",938,"Patriotas Boyacá","Colombia",1356
+"939",939,"Farul Constanța","Romania",1355
+"940",940,"Melipilla","Chile",1355
+"941",941,"Zamora FC","Venezuela",1355
+"942",942,"Liga de Loja","Ecuador",1355
+"943",943,"San Pedro","Ivory Coast",1355
+"944",944,"Sportivo Luqueño","Paraguay",1354
+"945",945,"Waterhouse FC","Jamaica",1354
+"946",946,"Kryvbas","Ukraine",1354
+"947",947,"Naft Tehran","Iran",1354
+"948",948,"Al Shabab","United Arab Emirates",1354
+"949",949,"AL Gharafa","Qatar",1354
+"950",950,"Ben Guerdane","Tunisia",1354
+"951",951,"Damac FC","Saudi Arabia",1354
+"952",952,"Royal AM","South Africa",1354
+"953",953,"Monomatapa United","Zimbabwe",1353
+"954",954,"Port Talbot","Wales",1353
+"955",955,"SO Armée","Ivory Coast",1353
+"956",956,"Adelaide United","Australia",1353
+"957",957,"České Budějovice","Czech Republic",1353
+"958",958,"Isloch","Belarus",1353
+"959",959,"León de Huánuco","Peru",1353
+"960",960,"Bengaluru FC","India",1353
+"961",961,"Santos de Guápiles","Costa Rica",1353
+"962",962,"Ajax","Congo DR",1352
+"963",963,"FC Energetik-BGU Minsk","Belarus",1352
+"964",964,"Tukoko University","Papua New Guinea",1352
+"965",965,"Jagiellonia Białystok","Poland",1352
+"966",966,"Gold Coast United","Australia",1352
+"967",967,"Shkupi Skopje","Macedonia",1352
+"968",968,"Debrecen","Hungary",1352
+"969",969,"Odense Boldklub","Denmark",1352
+"970",970,"Simba SC","Tanzania",1351
+"971",971,"Saburtalo","Georgia",1351
+"972",972,"FC Voluntari","Romania",1351
+"973",973,"El Tanque Sisley","Uruguay",1350
+"974",974,"Iztapa","Guatemala",1350
+"975",975,"Imbabura","Ecuador",1350
+"976",976,"CD UT Cajamarca","Peru",1350
+"977",977,"Central Español","Uruguay",1350
+"978",978,"Uniao da Madeira","Portugal",1350
+"979",979,"Masvingo United","Zimbabwe",1350
+"980",980,"National Bank","Egypt",1350
+"981",981,"Chorrillo","Panama",1350
+"982",982,"Cambuur","Netherlands",1349
+"983",983,"Pwd Bamenda","Cameroon",1349
+"984",984,"MC El Eulma","Algeria",1349
+"985",985,"Oriente Petrolero","Bolivia",1349
+"986",986,"Sanat Naft Abadan","Iran",1349
+"987",987,"Coleraine","Northern Ireland",1349
+"988",988,"Benfica Luanda","Angola",1349
+"989",989,"FK Liepājas Metalurgs","Latvia",1349
+"990",990,"Suwon FC","South Korea",1349
+"991",991,"Waterford FC","Ireland",1348
+"992",992,"Mes Kerman","Iran",1348
+"993",993,"Orlando City","United States",1348
+"994",994,"Roda JC Kerkrade","Netherlands",1348
+"995",995,"Cusco FC","Peru",1347
+"996",996,"Paykan F.C.","Iran",1347
+"997",997,"Vardar Skopje","Macedonia",1347
+"998",998,"Sport Boys","Peru",1347
+"999",999,"Olimpo","Argentina",1347
+"1000",1000,"OFI Crete","Greece",1347
+"1001",1001,"Giwa FC","Nigeria",1347
+"1002",1002,"Berekum Chelsea FC","Ghana",1346
+"1003",1003,"Zob Ahan Isfahan FC","Iran",1346
+"1004",1004,"FK Mladost Lučani","Serbia",1346
+"1005",1005,"Eskişehirspor","Turkey",1346
+"1006",1006,"Tiko United","Cameroon",1346
+"1007",1007,"Saba Qom","Iran",1345
+"1008",1008,"Spartak Myjava","Slovakia",1345
+"1009",1009,"Akhisar Belediye","Turkey",1345
+"1010",1010,"Sharks","Nigeria",1345
+"1011",1011,"KS Warta Poznań","Poland",1345
+"1012",1012,"Deportes Iquique","Chile",1345
+"1013",1013,"Bnei Yehuda Tel Aviv FC","Israel",1345
+"1014",1014,"Llanelli","Wales",1345
+"1015",1015,"Arles","France",1344
+"1016",1016,"Kristiansund BK","Norway",1344
+"1017",1017,"MCO Oujda","Morocco",1344
+"1018",1018,"Al-Faisaly SC Amman","Jordan",1344
+"1019",1019,"KV Oostende","Belgium",1344
+"1020",1020,"Keşlə Futbol Klubu","Azerbaijan",1343
+"1021",1021,"Beira-Mar","Portugal",1343
+"1022",1022,"Ayacucho FC","Peru",1343
+"1023",1023,"Mezőkövesd-Zsóry","Hungary",1343
+"1024",1024,"Recreativo da Caála","Angola",1343
+"1025",1025,"Sport Áncash","Peru",1343
+"1026",1026,"LA Galaxy","United States",1343
+"1027",1027,"Sporting Gagnoa","Ivory Coast",1343
+"1028",1028,"Zaria Bălți","Moldova",1343
+"1029",1029,"San Luis FC","Mexico",1343
+"1030",1030,"Glentoran","Northern Ireland",1342
+"1031",1031,"W Connection FC","Trinidad and Tobago",1342
+"1032",1032,"Al Mokawloon Al Arab","Egypt",1342
+"1033",1033,"Rizespor","Turkey",1342
+"1034",1034,"Red Arrows","Zambia",1342
+"1035",1035,"Rangers","Chile",1342
+"1036",1036,"Zagłębie Lubin","Poland",1342
+"1037",1037,"Erzurum BB","Turkey",1342
+"1038",1038,"Dorados Sinaloa","Mexico",1342
+"1039",1039,"New Soger","Congo DR",1342
+"1040",1040,"Ismaily SC","Egypt",1342
+"1041",1041,"Dundee United","Scotland",1341
+"1042",1042,"Dila Gori","Georgia",1341
+"1043",1043,"Vysočina Jihlava","Czech Republic",1341
+"1044",1044,"Sirius","Sweden",1341
+"1045",1045,"Kortrijk","Belgium",1341
+"1046",1046,"Deportivo Municipal","Peru",1341
+"1047",1047,"Deportivo Quevedo","Ecuador",1341
+"1048",1048,"Nassaji Mazandaran","Iran",1341
+"1049",1049,"Śląsk Wrocław","Poland",1341
+"1050",1050,"Unión Comercio","Peru",1341
+"1051",1051,"TSV Hartberg","Austria",1340
+"1052",1052,"Odds Ballklubb","Norway",1340
+"1053",1053,"Manta","Ecuador",1340
+"1054",1054,"Al-Ittihad Al-Sakandary","Egypt",1340
+"1055",1055,"Motherwell","Scotland",1340
+"1056",1056,"Warri Wolves FC","Nigeria",1340
+"1057",1057,"Júbilo Iwata","Japan",1340
+"1058",1058,"Santiago Morning","Chile",1340
+"1059",1059,"SC Chabab Mohammédia","Morocco",1340
+"1060",1060,"Khazar Lankaran FK","Azerbaijan",1340
+"1061",1061,"Tondela","Portugal",1340
+"1062",1062,"Asociación Deportiva Tarma (ADT)","Peru",1340
+"1063",1063,"Sloboda Užice","Serbia",1340
+"1064",1064,"Coquimbo Unido","Chile",1340
+"1065",1065,"Nea Salamis","Cyprus",1339
+"1066",1066,"Livorno","Italy",1339
+"1067",1067,"Rentistas","Uruguay",1339
+"1068",1068,"Mordovia Saransk","Russia",1339
+"1069",1069,"De Graafschap","Netherlands",1339
+"1070",1070,"Chacarita Juniors","Argentina",1339
+"1071",1071,"JSM Béjaïa","Algeria",1339
+"1072",1072,"Shakhter Karagandy","Kazakhstan",1339
+"1073",1073,"Cumbayá FC","Ecuador",1339
+"1074",1074,"FK Haugesund","Norway",1339
+"1075",1075,"FK Tuzla City","Bosnia and Herzegovina",1339
+"1076",1076,"Charlotte FC","Uruguay",1339
+"1077",1077,"FC Bravos DO Maquis","Angola",1339
+"1078",1078,"Hapoel Hadera","Israel",1339
+"1079",1079,"Dijon","France",1339
+"1080",1080,"Chapecoense AF","Brazil",1338
+"1081",1081,"US Biskra","Algeria",1338
+"1082",1082,"Tacuary","Paraguay",1338
+"1083",1083,"CA Palmaflor","Bolivia",1338
+"1084",1084,"CD FAS","El Salvador",1338
+"1085",1085,"Tigres FC","Colombia",1338
+"1086",1086,"Wikki Tourist","Nigeria",1338
+"1087",1087,"Power Dynamos","Zambia",1338
+"1088",1088,"WSG Tirol","Austria",1338
+"1089",1089,"Viborg","Denmark",1338
+"1090",1090,"Deportes La Serena","Chile",1338
+"1091",1091,"Baniyas","United Arab Emirates",1337
+"1092",1092,"Radomiak Radom","Poland",1337
+"1093",1093,"Silkeborg","Denmark",1337
+"1094",1094,"Naval 1º de Maio","Portugal",1337
+"1095",1095,"Unión San Felipe","Chile",1336
+"1096",1096,"Khimki","Russia",1336
+"1097",1097,"Zirə","Azerbaijan",1336
+"1098",1098,"AFC UTA Arad","Romania",1336
+"1099",1099,"Bloemfontein Celtic","South Africa",1336
+"1100",1100,"Moghreb Tétouan","Morocco",1336
+"1101",1101,"Canterbury United","New Zealand",1336
+"1102",1102,"Shooting Stars","Nigeria",1336
+"1103",1103,"San Marcos","Chile",1336
+"1104",1104,"Katsina United","Nigeria",1336
+"1105",1105,"SPAL 2013","Italy",1336
+"1106",1106,"Wisła Płock","Poland",1335
+"1107",1107,"AS Rejiche","Tunisia",1335
+"1108",1108,"Club Atlético Grau","Peru",1335
+"1109",1109,"El Nacional","Ecuador",1335
+"1110",1110,"Grasshopper Club Zürich","Switzerland",1335
+"1111",1111,"Sud América","Uruguay",1335
+"1112",1112,"Ma Pau","Trinidad and Tobago",1334
+"1113",1113,"FK AGMK","Uzbekistan",1334
+"1114",1114,"Omiya Ardija","Japan",1334
+"1115",1115,"Gombe United","Nigeria",1334
+"1116",1116,"Ajax Cape Town","South Africa",1334
+"1117",1117,"Carabobo FC","Venezuela",1334
+"1118",1118,"AS Magenta","New Caledonia",1334
+"1119",1119,"Argeș Pitești","Romania",1333
+"1120",1120,"Ittihad Tanger","Morocco",1333
+"1121",1121,"Zavrč","Slovenia",1333
+"1122",1122,"FC Ashdod","Israel",1333
+"1123",1123,"Deportivo Capiatá","Paraguay",1333
+"1124",1124,"Niger Tornadoes","Nigeria",1333
+"1125",1125,"Hilal Al-Obayed","Sudan",1333
+"1126",1126,"Kecskeméti TE","Hungary",1333
+"1127",1127,"Al-Arabi Doha","Qatar",1332
+"1128",1128,"Oţelul Galaţi","Romania",1332
+"1129",1129,"Stal Kamianske","Ukraine",1331
+"1130",1130,"Znojmo","Czech Republic",1331
+"1131",1131,"FC Juárez","Mexico",1331
+"1132",1132,"Al-Jazeera Amman","Jordan",1331
+"1133",1133,"Bella Vista","Uruguay",1331
+"1134",1134,"Narva Trans","Estonia",1331
+"1135",1135,"AD Grecia FC","Costa Rica",1331
+"1136",1136,"Racing Club","Uruguay",1331
+"1137",1137,"Zhetysu Taldykorgan","Kazakhstan",1331
+"1138",1138,"Cortuluá","Colombia",1331
+"1139",1139,"MyPa","Finland",1330
+"1140",1140,"Larne FC","Northern Ireland",1330
+"1141",1141,"AS Slimane","Tunisia",1330
+"1142",1142,"Aluminium Arak","Iran",1330
+"1143",1143,"Varbergs BoIS","Sweden",1330
+"1144",1144,"Sport Colombia","Paraguay",1330
+"1145",1145,"Austin FC","Uruguay",1330
+"1146",1146,"Annaba","Algeria",1330
+"1147",1147,"HB Chelghoum Laïd","Algeria",1330
+"1148",1148,"Persebaya Surabaya","Indonesia",1330
+"1149",1149,"Slavia-Mozyr","Belarus",1330
+"1150",1150,"Ventspils","Latvia",1330
+"1151",1151,"Bakı","Azerbaijan",1330
+"1152",1152,"Academia F. Amadou Diallo","Ivory Coast",1330
+"1153",1153,"General Caballero","Paraguay",1330
+"1154",1154,"SK Brann","Norway",1329
+"1155",1155,"OCK Khouribga","Morocco",1329
+"1156",1156,"Braşov","Romania",1329
+"1157",1157,"Monagas SC","Venezuela",1329
+"1158",1158,"Olhanense","Portugal",1329
+"1159",1159,"Inverness CT","Scotland",1329
+"1160",1160,"Olympic Club de Safi","Morocco",1328
+"1161",1161,"FC Arsenal Kiev","Ukraine",1328
+"1162",1162,"Independiente de La Chorrera","Panama",1328
+"1163",1163,"Árabe Unido","Panama",1328
+"1164",1164,"Club River Plate","Paraguay",1328
+"1165",1165,"Stade Gabésien","Tunisia",1328
+"1166",1166,"Petrolul Ploieşti","Romania",1328
+"1167",1167,"Sevastopol","Ukraine",1328
+"1168",1168,"Léopards de Dolisié","Congo",1328
+"1169",1169,"FK Inhulets' Petrove","Ukraine",1328
+"1170",1170,"Rhyl","Wales",1328
+"1171",1171,"Stade Tunisien","Tunisia",1328
+"1172",1172,"US Tataouine","Tunisia",1328
+"1173",1173,"Highlands Park","South Africa",1328
+"1174",1174,"Royal Excel Mouscron Péruwelz","Belgium",1328
+"1175",1175,"Club Petrolero","Bolivia",1328
+"1176",1176,"Cardiff Met University","Wales",1328
+"1177",1177,"Sfîntul Gheorghe","Moldova",1327
+"1178",1178,"FC U Craiova 1948","Romania",1327
+"1179",1179,"Botafogo FC","Cameroon",1327
+"1180",1180,"Independiente Petrolero","Bolivia",1327
+"1181",1181,"Uniautónoma FC","Colombia",1327
+"1182",1182,"Košice","Slovakia",1327
+"1183",1183,"Pharco FC","Egypt",1327
+"1184",1184,"Pusamania Borneo FC","Indonesia",1326
+"1185",1185,"Gwangju FC","South Korea",1326
+"1186",1186,"2 de Mayo","Paraguay",1326
+"1187",1187,"FC Minsk","Belarus",1326
+"1188",1188,"Blooming","Bolivia",1326
+"1189",1189,"Metalist 1925 Kharkiv","Ukraine",1326
+"1190",1190,"Heart of Lions","Ghana",1326
+"1191",1191,"Tianjin Tianhai","China PR",1326
+"1192",1192,"Panionios","Greece",1326
+"1193",1193,"Ittihad El-Shorta","Egypt",1326
+"1194",1194,"Deportivo Walter Ferretti","Nicaragua",1325
+"1195",1195,"Atlante","Mexico",1325
+"1196",1196,"Roeselare","Belgium",1325
+"1197",1197,"Malavan","Iran",1325
+"1198",1198,"Orduspor","Turkey",1325
+"1199",1199,"Avispa Fukuoka","Japan",1325
+"1200",1200,"Melbourne Victory","Australia",1325
+"1201",1201,"Sportivo Ameliano","Paraguay",1325
+"1202",1202,"Balıkesirspor","Turkey",1325
+"1203",1203,"Bukola Babes","Nigeria",1325
+"1204",1204,"Xelajú","Guatemala",1324
+"1205",1205,"Bnei Sakhnin","Israel",1324
+"1206",1206,"Horoya AC","Guinea",1324
+"1207",1207,"Pars Jonoubi Jam","Iran",1324
+"1208",1208,"SK Austria Klagenfurt","Austria",1324
+"1209",1209,"3 de Febrero","Paraguay",1324
+"1210",1210,"FK Gorodeya","Belarus",1324
+"1211",1211,"USM El Harrach","Algeria",1324
+"1212",1212,"Kilmarnock","Scotland",1324
+"1213",1213,"Go Ahead Eagles","Netherlands",1324
+"1214",1214,"Deportivo Los Caimanes","Peru",1323
+"1215",1215,"Vancouver Whitecaps","Canada",1323
+"1216",1216,"Hajduk Kula","Serbia",1323
+"1217",1217,"Seongnam FC","South Korea",1323
+"1218",1218,"Pécsi MFC","Hungary",1323
+"1219",1219,"Sport Loreto","Peru",1323
+"1220",1220,"Valmiera FK","Latvia",1323
+"1221",1221,"FC Chindia Târgovişte","Romania",1323
+"1222",1222,"Triangle FC","Zimbabwe",1323
+"1223",1223,"FK Spartak Subotica","Serbia",1323
+"1224",1224,"Simurq","Azerbaijan",1323
+"1225",1225,"Juan Aurich","Peru",1322
+"1226",1226,"Defensor La Bocana","Peru",1322
+"1227",1227,"Sportivo San Lorenzo","Paraguay",1322
+"1228",1228,"Africa Sports National","Ivory Coast",1322
+"1229",1229,"NK Tabor Sežana","Slovenia",1322
+"1230",1230,"Jeunesse Sportive Soualem","Morocco",1322
+"1231",1231,"Académica","Portugal",1322
+"1232",1232,"Ceramica Cleopatra","Egypt",1321
+"1233",1233,"Etoile Metlaoui","Tunisia",1321
+"1234",1234,"Spartak Nal'chik","Russia",1321
+"1235",1235,"El Kanemi Warriors","Nigeria",1321
+"1236",1236,"Hebei F.C.","China PR",1321
+"1237",1237,"Zulte Waregem","Belgium",1320
+"1238",1238,"Mineros de Guayana","Venezuela",1320
+"1239",1239,"MTK Budapest","Hungary",1320
+"1240",1240,"FK Rotor Volgograd","Russia",1320
+"1241",1241,"Deportivo La Guaira FC","Venezuela",1320
+"1242",1242,"Zalaegerszegi TE","Hungary",1320
+"1243",1243,"Kayseri Erciyesspor","Turkey",1319
+"1244",1244,"Alianza Atlético","Peru",1319
+"1245",1245,"Saipa FC","Iran",1319
+"1246",1246,"Yenisey Krasnoyarsk","Russia",1319
+"1247",1247,"AS Tanda","Ivory Coast",1319
+"1248",1248,"Platinum Stars","South Africa",1319
+"1249",1249,"Guabirá","Bolivia",1319
+"1250",1250,"Deportivo Carapeguá","Paraguay",1319
+"1251",1251,"General Caballero JLM","Paraguay",1319
+"1252",1252,"Heartland FC","Nigeria",1318
+"1253",1253,"Leixões","Portugal",1318
+"1254",1254,"Doxa Katokopia","Cyprus",1318
+"1255",1255,"Zimbru","Moldova",1318
+"1256",1256,"Shimizu S-Pulse","Japan",1318
+"1257",1257,"Gençlerbirligi","Turkey",1318
+"1258",1258,"Maniema Union","Congo DR",1318
+"1259",1259,"Napredak","Serbia",1318
+"1260",1260,"Université Ngaoundéré","Cameroon",1318
+"1261",1261,"Velež Mostar","Bosnia and Herzegovina",1318
+"1262",1262,"Pérez Zeledón","Costa Rica",1318
+"1263",1263,"Universidad de San Carlos","Guatemala",1318
+"1264",1264,"Manisaspor","Turkey",1318
+"1265",1265,"FK Vitebsk","Belarus",1318
+"1266",1266,"Deportivo Sanarate","Guatemala",1318
+"1267",1267,"Legon Cities FC","Ghana",1318
+"1268",1268,"NC Magra","Algeria",1317
+"1269",1269,"Sporting San José FC","Costa Rica",1317
+"1270",1270,"Damash","Iran",1317
+"1271",1271,"Cúcuta Deportivo","Colombia",1317
+"1272",1272,"Universitatea Cluj","Romania",1317
+"1273",1273,"Al-Ramtha SC","Jordan",1317
+"1274",1274,"Altay S.K.","Turkey",1317
+"1275",1275,"FC Fastav Zlin","Czech Republic",1316
+"1276",1276,"Bayamón FC","Puerto Rico",1316
+"1277",1277,"Don Bosco SC","Congo DR",1316
+"1278",1278,"FK Tosno","Russia",1316
+"1279",1279,"Grödig","Austria",1316
+"1280",1280,"Balmazújváros","Hungary",1316
+"1281",1281,"DRB Tadjenanet","Algeria",1316
+"1282",1282,"San Francisco FC","Panama",1316
+"1283",1283,"Stella Club","Ivory Coast",1316
+"1284",1284,"Hapoel Haifa","Israel",1316
+"1285",1285,"Tacuarembó","Uruguay",1316
+"1286",1286,"FK Septemvri Sofia","Bulgaria",1315
+"1287",1287,"Bendel Insurance","Nigeria",1315
+"1288",1288,"FK Iskra","Montenegro",1315
+"1289",1289,"ASGNN","Niger",1315
+"1290",1290,"MFM FC","Nigeria",1315
+"1291",1291,"Petrojet","Egypt",1315
+"1292",1292,"ŠKF Sereď","Slovakia",1315
+"1293",1293,"Johor Darul Ta'zim FC","Malaysia",1315
+"1294",1294,"St. Mirren","Scotland",1315
+"1295",1295,"Monaghan United","Ireland",1315
+"1296",1296,"DC United","United States",1314
+"1297",1297,"IFK Värnamo","Sweden",1314
+"1298",1298,"Unirea Urziceni","Romania",1314
+"1299",1299,"WWS Rangers","Zimbabwe",1314
+"1300",1300,"Náutico","Brazil",1314
+"1301",1301,"Tromsø IL","Norway",1314
+"1302",1302,"Mount Pleasant FC","Jamaica",1314
+"1303",1303,"RC Arbaâ","Algeria",1314
+"1304",1304,"Slaven","Croatia",1314
+"1305",1305,"Deportivo Quito","Ecuador",1314
+"1306",1306,"Guangzhou City F.C.","China PR",1314
+"1307",1307,"Korona Kielce","Poland",1313
+"1308",1308,"Shenzhen FC","China PR",1313
+"1309",1309,"Al Feiha","Saudi Arabia",1313
+"1310",1310,"VPS","Finland",1313
+"1311",1311,"CD America de Quito","Ecuador",1313
+"1312",1312,"Semen Padang","Indonesia",1312
+"1313",1313,"Avenir de La Marsa","Tunisia",1312
+"1314",1314,"Havadar S.C.","Iran",1312
+"1315",1315,"Padideh F.C.","Iran",1312
+"1316",1316,"Etar","Bulgaria",1312
+"1317",1317,"Ifeanyi Ubah United","Nigeria",1312
+"1318",1318,"Ross County","Scotland",1312
+"1319",1319,"Abha Club","Saudi Arabia",1312
+"1320",1320,"Estudiantes Tecos","Mexico",1311
+"1321",1321,"Sportivo Trinidense","Paraguay",1311
+"1322",1322,"HIFK","Finland",1311
+"1323",1323,"Albion F.C.","Uruguay",1311
+"1324",1324,"Karpaty Lviv","Ukraine",1311
+"1325",1325,"Tampere United","Finland",1311
+"1326",1326,"Olympique Béja","Tunisia",1311
+"1327",1327,"Sibir Novosibirsk","Russia",1311
+"1328",1328,"Madura United","Indonesia",1311
+"1329",1329,"Remo Stars","Nigeria",1311
+"1330",1330,"C.A. Cerro","Uruguay",1310
+"1331",1331,"KACM Marrakech","Morocco",1310
+"1332",1332,"Al Wasl","United Arab Emirates",1310
+"1333",1333,"Moroka Swallows","South Africa",1310
+"1334",1334,"SV Ried","Austria",1310
+"1335",1335,"Mons","Belgium",1310
+"1336",1336,"Zulia","Venezuela",1309
+"1337",1337,"Al Raed","Saudi Arabia",1309
+"1338",1338,"Telephonaat Beni Suef","Egypt",1309
+"1339",1339,"Brujas","Costa Rica",1309
+"1340",1340,"Al-Tai FC","Saudi Arabia",1309
+"1341",1341,"Villa Teresa","Uruguay",1309
+"1342",1342,"AS Aïn M'lila","Algeria",1308
+"1343",1343,"Guadalupe FC","Costa Rica",1308
+"1344",1344,"Mattersburg","Austria",1308
+"1345",1345,"Western Sydney","Australia",1308
+"1346",1346,"Busan I'Park","South Korea",1308
+"1347",1347,"Desportivo Da Huíla","Angola",1308
+"1348",1348,"LDU Portoviejo","Ecuador",1308
+"1349",1349,"Metropolitanos FC","Venezuela",1308
+"1350",1350,"Qatar SC","Qatar",1308
+"1351",1351,"Ankaragücü","Turkey",1308
+"1352",1352,"Amicale FC","Vanuatu",1308
+"1353",1353,"Santos","South Africa",1308
+"1354",1354,"Stabæk","Norway",1308
+"1355",1355,"FC Tsarsko Selo Sofia 2015","Bulgaria",1308
+"1356",1356,"San Jose Earthquakes","United States",1308
+"1357",1357,"Renaissance Club Zemamra","Morocco",1307
+"1358",1358,"Ratchaburi FC","Thailand",1307
+"1359",1359,"FC Struga Trim-Lum","Nigeria",1307
+"1360",1360,"Avion Fc Du Nkam","Cameroon",1307
+"1361",1361,"CNI","Peru",1307
+"1362",1362,"FK Mariupol Illichivets'","Ukraine",1307
+"1363",1363,"Arnett Gardens","Jamaica",1307
+"1364",1364,"FC Zbrojovka Brno","Czech Republic",1307
+"1365",1365,"Total Chalaco","Peru",1307
+"1366",1366,"Central","Trinidad and Tobago",1307
+"1367",1367,"Gokulam Kerala Fc","India",1306
+"1368",1368,"Sporting Clube de Goa","India",1306
+"1369",1369,"Oita Trinita","Japan",1306
+"1370",1370,"Bakaridjan de Barouéli","Mali",1306
+"1371",1371,"St. Johnstone","Scotland",1306
+"1372",1372,"Akademija Pandev","Macedonia",1306
+"1373",1373,"Panetolikos","Greece",1305
+"1374",1374,"Neuchâtel Xamax","Switzerland",1305
+"1375",1375,"Asoc. Dep. y Rec. Jicaral Sercoba","Costa Rica",1305
+"1376",1376,"Toronto FC","Canada",1305
+"1377",1377,"AFC Herrmannstadt Sibiu","Romania",1305
+"1378",1378,"Shahrdari Tabriz","Iran",1305
+"1379",1379,"Wisła Kraków","Poland",1305
+"1380",1380,"Khroub","Algeria",1304
+"1381",1381,"Harare City","Zimbabwe",1304
+"1382",1382,"United Sports Club","India",1304
+"1383",1383,"Shabanie Mine","Zimbabwe",1304
+"1384",1384,"Olimpik Donetsk","Ukraine",1304
+"1385",1385,"Universitario de Vinto","Bolivia",1304
+"1386",1386,"Vista Hermosa","El Salvador",1304
+"1387",1387,"Toulouse","France",1304
+"1388",1388,"San Luis","Chile",1304
+"1389",1389,"Ventforet Kofu","Japan",1303
+"1390",1390,"Zarzis","Tunisia",1303
+"1391",1391,"Fauve Azur Elite FC","Cameroon",1303
+"1392",1392,"Hamarkameratene","Norway",1303
+"1393",1393,"Racing Club d'Abidjan","Ivory Coast",1303
+"1394",1394,"Al-Khaleej Club","Saudi Arabia",1303
+"1395",1395,"Delta Force FC","Nigeria",1303
+"1396",1396,"Sportif de Chebba","Tunisia",1303
+"1397",1397,"Szombathelyi Haladás","Hungary",1303
+"1398",1398,"Lautoka","Fiji",1303
+"1399",1399,"Ergotelis","Greece",1303
+"1400",1400,"Persidafon","Indonesia",1303
+"1401",1401,"Eupen","Belgium",1303
+"1402",1402,"AL Qadisiyah FC","Saudi Arabia",1303
+"1403",1403,"Lučko","Croatia",1303
+"1404",1404,"New Edubiase FC","Ghana",1302
+"1405",1405,"Bechem United","Ghana",1302
+"1406",1406,"Novi Pazar","Serbia",1302
+"1407",1407,"Boyacá Chicó FC","Colombia",1302
+"1408",1408,"Minyor Pernik","Bulgaria",1302
+"1409",1409,"Larisa Ael","Greece",1302
+"1410",1410,"Maccabi Petah Tikva","Israel",1302
+"1411",1411,"Puerto Rico Islanders","Puerto Rico",1302
+"1412",1412,"Sporting San Miguelito","Panama",1302
+"1413",1413,"Sofapaka","Kenya",1302
+"1414",1414,"PSM Makassar","Indonesia",1302
+"1415",1415,"Zawisza Bydgoszcz","Poland",1302
+"1416",1416,"Wadi Degla FC","Egypt",1302
+"1417",1417,"FC Daugava","Latvia",1302
+"1418",1418,"Gefle","Sweden",1302
+"1419",1419,"Al Wahda","Saudi Arabia",1301
+"1420",1420,"FK Kauno Zalgiris","Lithuania",1301
+"1421",1421,"Merreikh El-Fasher","Sudan",1301
+"1422",1422,"Saïda","Algeria",1301
+"1423",1423,"Pirin Blagoevgrad","Bulgaria",1301
+"1424",1424,"Turnu Severin","Romania",1301
+"1425",1425,"Atlético Choloma","Honduras",1301
+"1426",1426,"Juventud Independiente","El Salvador",1301
+"1427",1427,"FK Slutsk","Belarus",1301
+"1428",1428,"Maritzburg United","South Africa",1301
+"1429",1429,"FK Kolubara","Serbia",1301
+"1430",1430,"Ebusua Dwarfs","Ghana",1301
+"1431",1431,"Widzew Łódz","Poland",1301
+"1432",1432,"OFK Titograd","Montenegro",1301
+"1433",1433,"Zeta","Montenegro",1301
+"1434",1434,"Águilas","Costa Rica",1300
+"1435",1435,"FC Lviv","Ukraine",1300
+"1436",1436,"Jalapa","Guatemala",1300
+"1437",1437,"Rampla Juniors","Uruguay",1300
+"1438",1438,"Taraz","Kazakhstan",1300
+"1439",1439,"Haka","Finland",1300
+"1440",1440,"Cerro Porteño PF","Paraguay",1299
+"1441",1441,"Joenkoepings Soedra","Sweden",1299
+"1442",1442,"Pacífico","Peru",1299
+"1443",1443,"Aigle Royal","Cameroon",1299
+"1444",1444,"Hegelmann Litauen Kaunas","Lithuania",1299
+"1445",1445,"Wellington Phoenix","Australia",1299
+"1446",1446,"Pescara","Italy",1299
+"1447",1447,"Lamia","Greece",1299
+"1448",1448,"sekhukhune united fc","South Africa",1299
+"1449",1449,"Waterford United FC","Ireland",1299
+"1450",1450,"AZAL PFC Baku","Azerbaijan",1299
+"1451",1451,"Marumo Gallants FC","South Africa",1299
+"1452",1452,"Alaniya","Russia",1299
+"1453",1453,"Cavaliers FC","Jamaica",1299
+"1454",1454,"Airbus UK Broughton FC","Wales",1299
+"1455",1455,"Aluminium Hormozgan","Iran",1299
+"1456",1456,"Henan Songshan Longmen F.C.","China PR",1299
+"1457",1457,"Suchitepéquez","Guatemala",1299
+"1458",1458,"Diósgyör","Hungary",1299
+"1459",1459,"Vasas Budapest","Hungary",1298
+"1460",1460,"Jeonnam Dragons","South Korea",1298
+"1461",1461,"Portmore United FC","Jamaica",1298
+"1462",1462,"Kladno","Czech Republic",1298
+"1463",1463,"Hapoel Jerusalem","Israel",1298
+"1464",1464,"Assyriska","Sweden",1298
+"1465",1465,"NAC Breda","Netherlands",1298
+"1466",1466,"Liberty Professionals","Ghana",1298
+"1467",1467,"FK Panevėžys","Lithuania",1298
+"1468",1468,"Santa Tecla FC","El Salvador",1298
+"1469",1469,"Juventud de Las Piedras","Uruguay",1298
+"1470",1470,"Penafiel","Portugal",1298
+"1471",1471,"Centre Salif Kéita","Mali",1298
+"1472",1472,"Pattaya United","Thailand",1298
+"1473",1473,"Inter Miami CF","United States",1298
+"1474",1474,"Brisbane Roar FC","Australia",1298
+"1475",1475,"Albirex Niigata","Japan",1298
+"1476",1476,"Duguwolofila","Mali",1297
+"1477",1477,"Ramonense PO","Costa Rica",1297
+"1478",1478,"Navbahor Namangan","Uzbekistan",1297
+"1479",1479,"Bolognesi","Peru",1297
+"1480",1480,"Kitchee","Hong Kong",1297
+"1481",1481,"Aluminij","Slovenia",1297
+"1482",1482,"Chabab Atlas Khénifra","Morocco",1297
+"1483",1483,"Isidro Metapán","El Salvador",1297
+"1484",1484,"Shonan Bellmare","Japan",1297
+"1485",1485,"Comerciantes Unidos","Peru",1297
+"1486",1486,"Deportivo Santaní","Paraguay",1297
+"1487",1487,"Lobos UPNFM","Honduras",1296
+"1488",1488,"Go Round","Nigeria",1296
+"1489",1489,"Aragua FC","Venezuela",1296
+"1490",1490,"Bayelsa United","Nigeria",1296
+"1491",1491,"MZKS Arka Gdynia","Poland",1296
+"1492",1492,"Caernarfon","Wales",1296
+"1493",1493,"Cerrito","Uruguay",1296
+"1494",1494,"Kaisar Kyzylorda","Kazakhstan",1296
+"1495",1495,"Olympique de Medea","Algeria",1296
+"1496",1496,"Alianza","Panama",1296
+"1497",1497,"Hangzhou Greentown","China PR",1296
+"1498",1498,"MO Béjaia","Algeria",1296
+"1499",1499,"Alki Oroklinis","Cyprus",1296
+"1500",1500,"Sable Batié","Cameroon",1295
+"1501",1501,"Săgeata Năvodari","Romania",1295
+"1502",1502,"Polokwane City","South Africa",1295
+"1503",1503,"New Star de Douala","Cameroon",1295
+"1504",1504,"Botev Vratsa","Bulgaria",1295
+"1505",1505,"El Gounah","Egypt",1295
+"1506",1506,"Al Ahli Tripoli","Libya",1295
+"1507",1507,"Rah Ahan","Iran",1295
+"1508",1508,"Fredrikstad","Norway",1295
+"1509",1509,"Olympic El Qanah FC","Egypt",1295
+"1510",1510,"Sogndal","Norway",1294
+"1511",1511,"FC Anzhi Makhachkala","Russia",1294
+"1512",1512,"Feirense","Portugal",1294
+"1513",1513,"José Gálvez","Peru",1294
+"1514",1514,"FC Dordrecht","Netherlands",1294
+"1515",1515,"Atyrau","Kazakhstan",1294
+"1516",1516,"Real Cartagena","Colombia",1294
+"1517",1517,"MFK Tatran Liptovský Mikuláš","Slovakia",1293
+"1518",1518,"Panthère","Cameroon",1293
+"1519",1519,"AC Oulu","Finland",1293
+"1520",1520,"Necaxa","Honduras",1293
+"1521",1521,"Caïman Douala","Cameroon",1293
+"1522",1522,"Youssoufia Berrechid","Morocco",1293
+"1523",1523,"Sabah FK","Azerbaijan",1293
+"1524",1524,"OFTA FC","Cameroon",1293
+"1525",1525,"Chongqing Liangjiang Athletic F.C.","China PR",1293
+"1526",1526,"Joe Public","Trinidad and Tobago",1293
+"1527",1527,"Ciclon","Bolivia",1293
+"1528",1528,"Deportivo Anzoátegui","Venezuela",1293
+"1529",1529,"Police Tero FC","Thailand",1293
+"1530",1530,"Ekranas","Lithuania",1293
+"1531",1531,"Barrio México","Costa Rica",1292
+"1532",1532,"Bucaspor","Turkey",1292
+"1533",1533,"Jigawa Golden Stars","Nigeria",1292
+"1534",1534,"Ruch Chorzów","Poland",1292
+"1535",1535,"Al Batin","Saudi Arabia",1292
+"1536",1536,"Aboomoslem","Iran",1292
+"1537",1537,"Lokeren","Belgium",1292
+"1538",1538,"L.A. Firpo","El Salvador",1292
+"1539",1539,"Kaduna United FC","Nigeria",1292
+"1540",1540,"LPTA Tozeur","Tunisia",1292
+"1541",1541,"Capaco","Congo DR",1292
+"1542",1542,"Barry Town United FC","Wales",1292
+"1543",1543,"Chornomorets Odesa","Ukraine",1291
+"1544",1544,"Nakhon Ratchasima FC","Thailand",1291
+"1545",1545,"Glenavon","Northern Ireland",1291
+"1546",1546,"Sumqayıt","Azerbaijan",1291
+"1547",1547,"Rising Stars","Nigeria",1291
+"1548",1548,"Taraba","Nigeria",1291
+"1549",1549,"Chepo FC","Panama",1291
+"1550",1550,"Akwa Starlets","Nigeria",1291
+"1551",1551,"Teplice","Czech Republic",1291
+"1552",1552,"Sport Boys Warnes","Bolivia",1291
+"1553",1553,"Gaziantepspor","Turkey",1291
+"1554",1554,"IFK Mariehamn","Finland",1290
+"1555",1555,"Sandefjord Football","Norway",1290
+"1556",1556,"ASI D'Abengourou","Ivory Coast",1290
+"1557",1557,"Deportes Quindío","Colombia",1290
+"1558",1558,"Denguélé Sport","Ivory Coast",1290
+"1559",1559,"Esteghlal Khuzestan FC","Iran",1290
+"1560",1560,"Leones FC","Colombia",1290
+"1561",1561,"Hispano","Honduras",1290
+"1562",1562,"FC Vaduz","Switzerland",1290
+"1563",1563,"Qingdao Jonoon","China PR",1290
+"1564",1564,"Gorica","Slovenia",1290
+"1565",1565,"Western United FC","Solomon Islands",1290
+"1566",1566,"Free State Stars","South Africa",1290
+"1567",1567,"Viktoria Žižkov","Czech Republic",1290
+"1568",1568,"Ethnikos Achnas","Cyprus",1290
+"1569",1569,"Misr El Makasa","Egypt",1289
+"1570",1570,"Enosis Paralimni","Cyprus",1289
+"1571",1571,"Haras El-Hodood SC","Egypt",1289
+"1572",1572,"Westerlo","Belgium",1289
+"1573",1573,"Usc Bassam","Ivory Coast",1289
+"1574",1574,"Perth Glory","Australia",1289
+"1575",1575,"Real Santa Cruz","Bolivia",1289
+"1576",1576,"Al-Salt","Jordan",1289
+"1577",1577,"Adanaspor","Turkey",1289
+"1578",1578,"United Petrotrin","Trinidad and Tobago",1289
+"1579",1579,"Dinamo Bucureşti","Romania",1289
+"1580",1580,"Nkana FC","Zambia",1289
+"1581",1581,"Jagodina","Serbia",1289
+"1582",1582,"Managua FC","Nicaragua",1289
+"1583",1583,"Koloale","Solomon Islands",1289
+"1584",1584,"Indios","Mexico",1289
+"1585",1585,"ZPC Kariba","Zimbabwe",1288
+"1586",1586,"Houston Dynamo","United States",1288
+"1587",1587,"Lierse","Belgium",1288
+"1588",1588,"Al-Wakra","Qatar",1288
+"1589",1589,"Pas Hamedan","Iran",1288
+"1590",1590,"Öster","Sweden",1288
+"1591",1591,"Obolon'","Ukraine",1288
+"1592",1592,"Onze Créateurs","Mali",1288
+"1593",1593,"Torpedo Kutaisi","Georgia",1288
+"1594",1594,"Vegalta Sendai","Japan",1288
+"1595",1595,"Pretoria University","South Africa",1288
+"1596",1596,"NK Krka","Slovenia",1288
+"1597",1597,"União de Leiria","Portugal",1288
+"1598",1598,"V-Varen Nagasaki","Japan",1288
+"1599",1599,"Deportivo del Este","Panama",1287
+"1600",1600,"Deportivo Achuapa","Guatemala",1287
+"1601",1601,"Dalian Shide","China PR",1287
+"1602",1602,"Umm-Salal","Qatar",1287
+"1603",1603,"Belén Siglo XXI","Costa Rica",1287
+"1604",1604,"Real Tomayapo","Bolivia",1287
+"1605",1605,"ADO Den Haag","Netherlands",1287
+"1606",1606,"Santiago Wanderers","Chile",1287
+"1607",1607,"Sriwijaya FC","Indonesia",1287
+"1608",1608,"Virunga","Congo DR",1287
+"1609",1609,"Rabotnički","Macedonia",1287
+"1610",1610,"Javor","Serbia",1287
+"1611",1611,"Al-Zawraa SC","Iraq",1287
+"1612",1612,"Deportivo Llacuabamba","Peru",1287
+"1613",1613,"FKS Stal Mielec","Poland",1287
+"1614",1614,"Karlovac","Croatia",1287
+"1615",1615,"SV Roeselare","Belgium",1286
+"1616",1616,"Sport Rosario (Huaraz)","Peru",1286
+"1617",1617,"Accra Great Olympics","Ghana",1286
+"1618",1618,"Dukla Praha","Czech Republic",1286
+"1619",1619,"Vestsjælland","Denmark",1286
+"1620",1620,"Estudiantes de Mérida","Venezuela",1286
+"1621",1621,"Wuhan F.C.","China PR",1286
+"1622",1622,"FC Carlos Stein","Peru",1286
+"1623",1623,"El Entag El Harby","Egypt",1286
+"1624",1624,"Dragons","Congo DR",1286
+"1625",1625,"Issia Wazi","Ivory Coast",1286
+"1626",1626,"Örebro","Sweden",1286
+"1627",1627,"Halmstads BK","Sweden",1286
+"1628",1628,"Internaţional Curtea de Argeş","Romania",1286
+"1629",1629,"Al Ahli","Qatar",1286
+"1630",1630,"Green Buffaloes","Zambia",1286
+"1631",1631,"AOK Kerkyra","Greece",1286
+"1632",1632,"Al Shoalah","Saudi Arabia",1286
+"1633",1633,"Aberystwyth","Wales",1286
+"1634",1634,"TS Galaxy","South Africa",1285
+"1635",1635,"Mictlán","Guatemala",1285
+"1636",1636,"Hønefoss","Norway",1285
+"1637",1637,"Chikhura","Georgia",1285
+"1638",1638,"AD Guanacasteca","Costa Rica",1285
+"1639",1639,"Lokomotiv Mezdra","Bulgaria",1285
+"1640",1640,"Crucero del Norte","Argentina",1285
+"1641",1641,"Ranheim","Norway",1285
+"1642",1642,"Universidad San Martín de Porres","Peru",1284
+"1643",1643,"Hamam Sousse","Tunisia",1284
+"1644",1644,"Rapide Club Oued Zem","Morocco",1284
+"1645",1645,"Renaissance de Ngoumou","Cameroon",1284
+"1646",1646,"Skenderbeu","Albania",1284
+"1647",1647,"USM Bel Abbès","Algeria",1284
+"1648",1648,"Al-Sailiya","Qatar",1284
+"1649",1649,"Veria FC","Greece",1284
+"1650",1650,"VVV-Venlo","Netherlands",1284
+"1651",1651,"FF Jaro","Finland",1284
+"1652",1652,"Limón","Costa Rica",1284
+"1653",1653,"USFAS Bamako","Mali",1283
+"1654",1654,"Alianza Universidad Huanuco","Peru",1283
+"1655",1655,"Chicago Fire","United States",1283
+"1656",1656,"Williamsville Athletic Club","Ivory Coast",1283
+"1657",1657,"Lausanne","Cameroon",1283
+"1658",1658,"Suphanburi FC","Thailand",1283
+"1659",1659,"Degerfors IF","Sweden",1283
+"1660",1660,"Hapoel Rishon LeZion","Israel",1283
+"1661",1661,"Åtvidaberg","Sweden",1283
+"1662",1662,"Polonia Bytom","Poland",1283
+"1663",1663,"Chippa United","South Africa",1283
+"1664",1664,"Atlético Huila","Colombia",1283
+"1665",1665,"EGS Gafsa","Tunisia",1283
+"1666",1666,"San Simon","Peru",1282
+"1667",1667,"Turku PS","Finland",1282
+"1668",1668,"Elima","Congo DR",1282
+"1669",1669,"Sogdiyona Jizzax","Uzbekistan",1282
+"1670",1670,"Gateway FC","Nigeria",1282
+"1671",1671,"Helsingborgs IF","Sweden",1282
+"1672",1672,"Green Eagles","Zambia",1282
+"1673",1673,"SCR Altach","Austria",1281
+"1674",1674,"Zemplin Michalovce","Slovakia",1281
+"1675",1675,"Halcones FC","Guatemala",1281
+"1676",1676,"CS Uruguay","Costa Rica",1281
+"1677",1677,"C.D. Hermanos Colmenarez","Venezuela",1281
+"1678",1678,"Hawke's Bay United","New Zealand",1281
+"1679",1679,"Stade d'Abidjan","Ivory Coast",1281
+"1680",1680,"RC Bafoussam","Cameroon",1281
+"1681",1681,"FC Dnyapro Mogilev","Belarus",1281
+"1682",1682,"Steel Azin","Iran",1281
+"1683",1683,"Panserraikos","Greece",1281
+"1684",1684,"Hienghène Sport","New Caledonia",1281
+"1685",1685,"Herrera FC","Panama",1280
+"1686",1686,"Lion Blessé","Cameroon",1280
+"1687",1687,"Nong Bua Pitchaya FC","Thailand",1280
+"1688",1688,"Volyn","Ukraine",1280
+"1689",1689,"Örgryte","Sweden",1280
+"1690",1690,"Falkirk","Scotland",1280
+"1691",1691,"Makedonija Gjorče Petrov","Macedonia",1280
+"1692",1692,"Real Juventud","Honduras",1280
+"1693",1693,"Matsumoto Yamaga","Japan",1280
+"1694",1694,"Dinamo-Auto","Moldova",1280
+"1695",1695,"Ocean Boys FC","Nigeria",1280
+"1696",1696,"Othellos Athienou FC","Cyprus",1279
+"1697",1697,"Göztepe AŞ","Turkey",1279
+"1698",1698,"CODM Meknès","Morocco",1279
+"1699",1699,"FC Dunărea Călăraşi","Romania",1279
+"1700",1700,"Río Abajo","Panama",1279
+"1701",1701,"Granit","Belarus",1279
+"1702",1702,"Mohammedan SC","India",1279
+"1703",1703,"GAIS","Sweden",1278
+"1704",1704,"Molinos El Pirata FC","Peru",1278
+"1705",1705,"Ironi Ramat HaSharon","Israel",1278
+"1706",1706,"FK Tambov","Russia",1278
+"1707",1707,"Dunbeholden FC","Jamaica",1278
+"1708",1708,"Aizawl","India",1278
+"1709",1709,"Čelik Nikšić","Montenegro",1278
+"1710",1710,"Once Municipal","El Salvador",1278
+"1711",1711,"Dragon","Tahiti",1278
+"1712",1712,"Academia Puerto Cabello","Venezuela",1278
+"1713",1713,"Guizhou Hengfeng","China PR",1278
+"1714",1714,"CD Platense Municipal","El Salvador",1277
+"1715",1715,"FK Proleter Novi Sad","Serbia",1277
+"1716",1716,"Miedź Legnica","Poland",1277
+"1717",1717,"RNK Split","Croatia",1277
+"1718",1718,"R.F.C. Seraing","Belgium",1277
+"1719",1719,"Clan Juvenil","Ecuador",1277
+"1720",1720,"GIF Sundsvall","Sweden",1277
+"1721",1721,"Costuleni","Moldova",1277
+"1722",1722,"EO Sidi Bouzid","Tunisia",1277
+"1723",1723,"FK Istiqlol Dushanbe","Tajikistan",1277
+"1724",1724,"Union Douala","Cameroon",1277
+"1725",1725,"AS Korofina","Mali",1277
+"1726",1726,"Târgu Mureş","Romania",1277
+"1727",1727,"Carmarthen","Wales",1277
+"1728",1728,"Ikorodu United","Nigeria",1276
+"1729",1729,"Bekescsaba","Hungary",1276
+"1730",1730,"Diyarbakirspor","Turkey",1276
+"1731",1731,"CD EL Vencedor","El Salvador",1276
+"1732",1732,"Progresso da Lunda Sul","Angola",1276
+"1733",1733,"Sogakope WAFA","Ghana",1276
+"1734",1734,"Fajr Sepasi","Iran",1276
+"1735",1735,"Grbalj Radanovici","Montenegro",1276
+"1736",1736,"AD Unión Magdalena","Colombia",1276
+"1737",1737,"FK Jerv","Norway",1276
+"1738",1738,"Renova","Macedonia",1276
+"1739",1739,"Shijiazhuang Ever Bright","China PR",1276
+"1740",1740,"Belshina Bobruisk","Belarus",1275
+"1741",1741,"Douanes Niamey","Niger",1275
+"1742",1742,"Sandecja Nowy Sącz","Poland",1275
+"1743",1743,"Universitatea Craiova","Romania",1275
+"1744",1744,"Waasland-Beveren","Belgium",1275
+"1745",1745,"Partick Thistle","Scotland",1275
+"1746",1746,"Al-Bourj FC","Lebanon",1275
+"1747",1747,"Šibenik","Croatia",1275
+"1748",1748,"Gyirmót SE","Hungary",1274
+"1749",1749,"Chabab Rif Al Hoceima","Morocco",1274
+"1750",1750,"FC Samgurali Tskhaltubo","Georgia",1274
+"1751",1751,"Aurora","Bolivia",1274
+"1752",1752,"Esan United","Thailand",1274
+"1753",1753,"Politehnica Iaşi","Romania",1274
+"1754",1754,"Voinţa Sibiu","Romania",1274
+"1755",1755,"OFK Beograd","Serbia",1274
+"1756",1756,"Bełchatów","Poland",1274
+"1757",1757,"Dreams FC","Ghana",1274
+"1758",1758,"Chapungu United","Zimbabwe",1273
+"1759",1759,"JC Abidjan","Ivory Coast",1273
+"1760",1760,"Dan Kassawa","Niger",1273
+"1761",1761,"Dečić","Montenegro",1273
+"1762",1762,"Juventud Retalteca","Guatemala",1273
+"1763",1763,"Urana","Niger",1273
+"1764",1764,"Universitario","Bolivia",1273
+"1765",1765,"Rudar Pljevlja","Montenegro",1273
+"1766",1766,"Al-Orobah FC","Saudi Arabia",1273
+"1767",1767,"Kyoto Sanga FC","Japan",1273
+"1768",1768,"Chengdu Blades","China PR",1272
+"1769",1769,"Académica do Soyo","Angola",1272
+"1770",1770,"AS Matelots","Cameroon",1272
+"1771",1771,"MFK Karviná","Czech Republic",1272
+"1772",1772,"FK Kaspiy Aktau","Kazakhstan",1272
+"1773",1773,"Ferroviário da Beira","Mozambique",1272
+"1774",1774,"ACS Poli Timişoara","Romania",1272
+"1775",1775,"Drogheda United","Ireland",1272
+"1776",1776,"Prison Leopards","Zambia",1272
+"1777",1777,"Njala Quan","Cameroon",1272
+"1778",1778,"PSIS","Indonesia",1272
+"1779",1779,"Prachuap FC","Thailand",1272
+"1780",1780,"Tivoli Gardens","Jamaica",1272
+"1781",1781,"SønderjyskE","Denmark",1272
+"1782",1782,"Ba","Fiji",1272
+"1783",1783,"Lausanne Sport","Switzerland",1272
+"1784",1784,"Metallurg Bekobod","Uzbekistan",1272
+"1785",1785,"Drava","Slovenia",1271
+"1786",1786,"Muğan","Azerbaijan",1271
+"1787",1787,"Dalian Professional FC","China PR",1271
+"1788",1788,"Sacachispas Chiquimula","Guatemala",1271
+"1789",1789,"Shabab Al-Ordon Club","Jordan",1271
+"1790",1790,"FC Rapid Ghidighici","Moldova",1271
+"1791",1791,"FC Arsenal Dzerzhinsk","Belarus",1271
+"1792",1792,"Mersin İdmanyurdu","Turkey",1271
+"1793",1793,"KPV","Finland",1271
+"1794",1794,"Kyzylzhar Petropavlovsk","Kazakhstan",1271
+"1795",1795,"Persiwa Wamena","Indonesia",1271
+"1796",1796,"Wydad Fès","Morocco",1271
+"1797",1797,"Karela United FC","Ghana",1271
+"1798",1798,"Sreenidi Deccan","India",1271
+"1799",1799,"FC Luch Minsk","Belarus",1270
+"1800",1800,"Entente Sportive du Bafing","Ivory Coast",1270
+"1801",1801,"Dacia Buiucani","Moldova",1270
+"1802",1802,"Dalkurd FF","Sweden",1270
+"1803",1803,"Black Mambas","Zimbabwe",1270
+"1804",1804,"Shooting Stars","Zimbabwe",1270
+"1805",1805,"Atlético de Kolkata","India",1270
+"1806",1806,"Atheltic Club Port of Spain","Trinidad and Tobago",1270
+"1807",1807,"Penybont FC","Wales",1270
+"1808",1808,"RoPS Rovaniemi","Finland",1270
+"1809",1809,"Lokomotiv Gorna Oryahovitsa","Bulgaria",1270
+"1810",1810,"Deportivo Chiantla","Guatemala",1270
+"1811",1811,"Oestersunds FK","Sweden",1270
+"1812",1812,"ESPOLI","Ecuador",1270
+"1813",1813,"Levadiakos","Greece",1269
+"1814",1814,"Wiliete SC","Angola",1269
+"1815",1815,"JUTH FC","Nigeria",1269
+"1816",1816,"Hapoel Petah Tikva FC","Israel",1269
+"1817",1817,"Atenas","Uruguay",1269
+"1818",1818,"Esbjerg fB","Denmark",1269
+"1819",1819,"Dunav Ruse","Bulgaria",1269
+"1820",1820,"Sektzia Ness Ziona FC","Israel",1269
+"1821",1821,"Manica Diamonds","Zimbabwe",1269
+"1822",1822,"Shahin Bushehr FC","Iran",1269
+"1823",1823,"Shelbourne","Ireland",1269
+"1824",1824,"Army United","Thailand",1269
+"1825",1825,"Odra Wodzisław","Poland",1269
+"1826",1826,"Eagles","Zimbabwe",1268
+"1827",1827,"St. George","Ethiopia",1268
+"1828",1828,"Granit Mikashevichi","Belarus",1268
+"1829",1829,"Vendsyssel FF","Denmark",1268
+"1830",1830,"Volga Nyzhnyi","Russia",1268
+"1831",1831,"How Mine","Zimbabwe",1268
+"1832",1832,"Hay Al Wadi SC","Sudan",1268
+"1833",1833,"F91 Dudelange","Luxembourg",1268
+"1834",1834,"CD Chalatenango","El Salvador",1268
+"1835",1835,"Humble Lions","Jamaica",1268
+"1836",1836,"Naft Masjed Soleyman FC","Iran",1268
+"1837",1837,"USM Blida","Algeria",1268
+"1838",1838,"SKA-Khabarovsk","Russia",1268
+"1839",1839,"Akokana","Niger",1268
+"1840",1840,"Sukhothai FC","Thailand",1268
+"1841",1841,"Nacional","Portugal",1268
+"1842",1842,"FK Zemun","Serbia",1267
+"1843",1843,"Henderson Eels","Solomon Islands",1267
+"1844",1844,"Black Rhinos","Zimbabwe",1267
+"1845",1845,"Sololá FC","Guatemala",1267
+"1846",1846,"Vejle Boldklub","Denmark",1267
+"1847",1847,"Tallinna JK Legion","Estonia",1267
+"1848",1848,"Nogoom FC","Egypt",1267
+"1849",1849,"Newcastle United Jets","Australia",1267
+"1850",1850,"Podbrezová","Slovakia",1267
+"1851",1851,"Punjab Football Club","India",1267
+"1852",1852,"Zlate Moravce","Slovakia",1267
+"1853",1853,"AL Safa","Lebanon",1267
+"1854",1854,"El Dakhleya","Egypt",1267
+"1855",1855,"Lion City Sailors FC","Singapore",1267
+"1856",1856,"General Díaz","Paraguay",1267
+"1857",1857,"Barnechea","Chile",1267
+"1858",1858,"Primorje","Slovenia",1267
+"1859",1859,"Puntarenas FC","Costa Rica",1266
+"1860",1860,"Nalkutan FC","Vanuatu",1266
+"1861",1861,"Dubnica","Slovakia",1266
+"1862",1862,"CD das Aves","Portugal",1266
+"1863",1863,"Royal Wahingdoh","India",1266
+"1864",1864,"Ngezi Platinum FC","Zimbabwe",1266
+"1865",1865,"Atlético Sport Aviação","Angola",1266
+"1866",1866,"Radnik Bijeljina","Bosnia and Herzegovina",1266
+"1867",1867,"AS Salé","Morocco",1266
+"1868",1868,"Athlone Town","Ireland",1266
+"1869",1869,"Barito Putera","Indonesia",1266
+"1870",1870,"Aarau","Switzerland",1266
+"1871",1871,"Atlético Venezuela","Venezuela",1265
+"1872",1872,"Termalica Nieciecza","Poland",1265
+"1873",1873,"Podbeskidzie Bielsko-Biala","Poland",1265
+"1874",1874,"Nchanga Rangers","Zambia",1265
+"1875",1875,"Al Ahly Benghazi","Libya",1265
+"1876",1876,"JSM Laâyoune","Morocco",1265
+"1877",1877,"Kabwe Warriors","Zambia",1265
+"1878",1878,"FK Jezero Plav","Montenegro",1265
+"1879",1879,"Dunaújváros Pálhalma SE","Hungary",1265
+"1880",1880,"NK Zadar","Croatia",1265
+"1881",1881,"Baroka FC","South Africa",1265
+"1882",1882,"Nyíregyháza Spartacus","Hungary",1264
+"1883",1883,"KCCA FC","Togo",1264
+"1884",1884,"Wiener Neustadt","Austria",1264
+"1885",1885,"Medimurje","Croatia",1264
+"1886",1886,"FC Kapaz","Azerbaijan",1264
+"1887",1887,"Persiba Balikpapan","Indonesia",1264
+"1888",1888,"Sloboda Tuzla","Bosnia and Herzegovina",1264
+"1889",1889,"Grombalia Sports","Tunisia",1264
+"1890",1890,"Béni-Khalled","Tunisia",1264
+"1891",1891,"FC Minaj","Ukraine",1264
+"1892",1892,"Mufulira Wanderers","Zambia",1264
+"1893",1893,"Al Nahdha Dammam","Saudi Arabia",1264
+"1894",1894,"Shabab Al Sahel","Lebanon",1264
+"1895",1895,"Buffaloes FC","Zimbabwe",1263
+"1896",1896,"San Juan FC","Puerto Rico",1263
+"1897",1897,"Portuguesa FC","Venezuela",1263
+"1898",1898,"Tefana","Tahiti",1263
+"1899",1899,"Radomlje","Slovenia",1263
+"1900",1900,"FK Donji Srem","Serbia",1263
+"1901",1901,"Municipal Limeño","El Salvador",1263
+"1902",1902,"Zacapa","Guatemala",1263
+"1903",1903,"Venus","Syria",1263
+"1904",1904,"Shark XI","Congo DR",1263
+"1905",1905,"Ballymena United","Northern Ireland",1263
+"1906",1906,"Chainat FC","Thailand",1263
+"1907",1907,"Atlético Balboa","El Salvador",1263
+"1908",1908,"PSPS Pekanbaru","Indonesia",1263
+"1909",1909,"Hapoel Nof HaGalil","Israel",1263
+"1910",1910,"Akzhaiyk Uralsk","Kazakhstan",1263
+"1911",1911,"Zamfara United FC","Nigeria",1263
+"1912",1912,"Delhi Dynamos FC","India",1262
+"1913",1913,"Finn Harps","Ireland",1262
+"1914",1914,"Khon Kaen United FC","Thailand",1262
+"1915",1915,"Veti Club","Congo DR",1262
+"1916",1916,"Al Hilal Kadougli","Sudan",1262
+"1917",1917,"Juticalpa","Honduras",1262
+"1918",1918,"FK Sileks","Macedonia",1262
+"1919",1919,"NA Hussein Dey","Algeria",1262
+"1920",1920,"Wuachon United","Thailand",1262
+"1921",1921,"Olympic Niamey","Niger",1262
+"1922",1922,"Hoang Anh Gia Lai","Vietnam",1262
+"1923",1923,"Parrillas One","Honduras",1262
+"1924",1924,"Harbin Yiteng","China PR",1262
+"1925",1925,"Olympique du Kef","Tunisia",1262
+"1926",1926,"Galway United FC","Ireland",1262
+"1927",1927,"AEL Kalloni FC","Greece",1261
+"1928",1928,"FC Wacker Innsbruck","Austria",1261
+"1929",1929,"Real Kashmir FC","India",1261
+"1930",1930,"US Bitam","Tahiti",1261
+"1931",1931,"Lengthens","Zimbabwe",1261
+"1932",1932,"Herentals FC","Zimbabwe",1261
+"1933",1933,"Chennai City FC","India",1261
+"1934",1934,"Ústí nad Labem","Czech Republic",1261
+"1935",1935,"NIGELEC","Niger",1261
+"1936",1936,"PSS Sleman","Indonesia",1260
+"1937",1937,"Tema Youth","Ghana",1260
+"1938",1938,"Deportivo Mixco","Guatemala",1260
+"1939",1939,"Cabinda","Angola",1260
+"1940",1940,"FK Krupa","Bosnia and Herzegovina",1260
+"1941",1941,"Macarthur FC","Australia",1260
+"1942",1942,"Dukla Banska Bystrica","Slovakia",1260
+"1943",1943,"Victoria Branesti","Romania",1260
+"1944",1944,"BSK Borča","Serbia",1260
+"1945",1945,"Ermis Aradippou","Cyprus",1260
+"1946",1946,"Berekum Arsenal","Ghana",1260
+"1947",1947,"Kiglon","Zimbabwe",1260
+"1948",1948,"FC Tskhinvali","Georgia",1260
+"1949",1949,"Tammeka","Estonia",1260
+"1950",1950,"Saint George","Ethiopia",1260
+"1951",1951,"FC Telavi","Georgia",1260
+"1952",1952,"SOL FC","Ivory Coast",1260
+"1953",1953,"Blessing FC","Congo DR",1260
+"1954",1954,"Deportivo Marquense","Guatemala",1260
+"1955",1955,"RC Relizane","Algeria",1260
+"1956",1956,"Flint Town United","Wales",1260
+"1957",1957,"Llandudno FC","Wales",1259
+"1958",1958,"Samut Prakan City","Thailand",1259
+"1959",1959,"Académica Lobito","Angola",1259
+"1960",1960,"Najran SC","Saudi Arabia",1259
+"1961",1961,"Siófok","Hungary",1259
+"1962",1962,"Njube Sundowns","Zimbabwe",1259
+"1963",1963,"El Raja","Egypt",1259
+"1964",1964,"King Faisal","Ghana",1259
+"1965",1965,"Yokohama FC","Japan",1259
+"1966",1966,"Tavriia","Ukraine",1259
+"1967",1967,"Unirea Alba Iulia","Romania",1259
+"1968",1968,"Chennaiyin FC","India",1259
+"1969",1969,"Příbram","Czech Republic",1259
+"1970",1970,"Petržalka","Slovakia",1259
+"1971",1971,"AS-FAN","Niger",1259
+"1972",1972,"Pirae","Syria",1259
+"1973",1973,"Bouaké FC","Ivory Coast",1259
+"1974",1974,"FK Metalac","Serbia",1258
+"1975",1975,"JEF United","Japan",1258
+"1976",1976,"KAC Kénitra","Morocco",1258
+"1977",1977,"Kokand 1912","Uzbekistan",1258
+"1978",1978,"Hasaacas","Ghana",1258
+"1979",1979,"El-Sharkia Lel Dokhan (Eastern Company SC)","Egypt",1258
+"1980",1980,"Hobro","Denmark",1258
+"1981",1981,"Kansanshi Dynamos","Zambia",1258
+"1982",1982,"Victoria","Honduras",1258
+"1983",1983,"Gabès","Tunisia",1258
+"1984",1984,"Police United FC","Thailand",1258
+"1985",1985,"Central Sport","Syria",1257
+"1986",1986,"Čelik Zenica","Bosnia and Herzegovina",1257
+"1987",1987,"Al Sharkeyah","Egypt",1257
+"1988",1988,"AS Bamako","Mali",1257
+"1989",1989,"Buildcon","Zambia",1257
+"1990",1990,"FK Horizont Turnovo","Macedonia",1257
+"1991",1991,"Liga Muçulmana","Mozambique",1257
+"1992",1992,"Inter Allies FC","Ghana",1257
+"1993",1993,"Neftochimic Burgas 1962","Bulgaria",1257
+"1994",1994,"Petrovac","Montenegro",1257
+"1995",1995,"FK Zvijezda 09","Bosnia and Herzegovina",1257
+"1996",1996,"Siquinalá FC","Guatemala",1256
+"1997",1997,"Alamal Atbara","Sudan",1256
+"1998",1998,"Yobe Desert Stars","Nigeria",1256
+"1999",1999,"Admira Wacker Mödling","Austria",1256
+"2000",2000,"Sepidrood Rasht SC","Iran",1256
+"2001",2001,"Gaitcha FCN","New Caledonia",1256
+"2002",2002,"Kongsvinger","Norway",1256
+"2003",2003,"Ghazl El Mehalla","Egypt",1256
+"2004",2004,"Universidad Central de Venezuela FC","Venezuela",1256
+"2005",2005,"Bulawayo Chiefs","Zimbabwe",1256
+"2006",2006,"Ocean Pacifique","Denmark",1256
+"2007",2007,"Denizlispor","Turkey",1256
+"2008",2008,"Viettel Football Club","Vietnam",1256
+"2009",2009,"Amidaus Professionals FC","Ghana",1255
+"2010",2010,"CS Hammam-Lif","Tunisia",1255
+"2011",2011,"AC Horsens","Denmark",1255
+"2012",2012,"Al Ahli Khartoum","Sudan",1255
+"2013",2013,"HŠK Posušje","Bosnia and Herzegovina",1255
+"2014",2014,"Yanbian","China PR",1255
+"2015",2015,"Nafta","Slovenia",1255
+"2016",2016,"Gaborone United","Botswana",1255
+"2017",2017,"ABM Galaxy FC","Vanuatu",1255
+"2018",2018,"FK Bokelj","Montenegro",1255
+"2019",2019,"Solomon Warriors FC","Solomon Islands",1255
+"2020",2020,"Ittihad Zemouri de Khemisset","Morocco",1255
+"2021",2021,"Sandnes","Norway",1255
+"2022",2022,"CA Batna","Algeria",1255
+"2023",2023,"Mumbai FC","India",1255
+"2024",2024,"Teungueth FC","Senegal",1255
+"2025",2025,"Mladi Radnik","Serbia",1255
+"2026",2026,"Arcahaie FC","Haiti",1254
+"2027",2027,"El Mansura","Egypt",1254
+"2028",2028,"Okzhetpes Kokshetau","Kazakhstan",1254
+"2029",2029,"Crown FC","Nigeria",1254
+"2030",2030,"Nkoyi Bilombe","Denmark",1254
+"2031",2031,"Eleven Wonders FC","Ghana",1254
+"2032",2032,"Al-Ain FC","Saudi Arabia",1254
+"2033",2033,"Sahel","Niger",1254
+"2034",2034,"Bibiani Gold Stars F.C.","Ghana",1254
+"2035",2035,"Ankaran Hrvatini","Slovenia",1254
+"2036",2036,"Ceahlăul Piatra","Romania",1254
+"2037",2037,"Mogren","Montenegro",1254
+"2038",2038,"AS Puma Generaleňa","Costa Rica",1254
+"2039",2039,"Santa Gema FC","Panama",1254
+"2040",2040,"FK Aksu","Kazakhstan",1254
+"2041",2041,"Likasi","Congo DR",1254
+"2042",2042,"Doxa Dramas","Greece",1254
+"2043",2043,"FA Šiauliai","Lithuania",1254
+"2044",2044,"Cobresol","Peru",1254
+"2045",2045,"Dinamo Vranje","Serbia",1253
+"2046",2046,"C.D. Lunda Sul","Angola",1253
+"2047",2047,"Sportul Studentesc","Romania",1253
+"2048",2048,"Gornik Leczna","Poland",1253
+"2049",2049,"Canon Buromeca","Congo DR",1253
+"2050",2050,"AL Shorta SC","Iraq",1253
+"2051",2051,"Scorpion FC de Bé","Cameroon",1253
+"2052",2052,"Panthrakikos Komotini","Greece",1253
+"2053",2053,"FK Arys","Kazakhstan",1253
+"2054",2054,"Sriracha","Thailand",1253
+"2055",2055,"El Minya","Egypt",1253
+"2056",2056,"Persema Malang","Indonesia",1253
+"2057",2057,"Merreikh Nyala","Sudan",1253
+"2058",2058,"TRAU F.C.","India",1253
+"2059",2059,"APOP / Kinyras","Cyprus",1253
+"2060",2060,"Tom' Tomsk","Russia",1252
+"2061",2061,"USGN","Niger",1252
+"2062",2062,"Lae City Dwellers","Papua New Guinea",1252
+"2063",2063,"Saraburi FC","Thailand",1252
+"2064",2064,"Rad Beograd","Serbia",1252
+"2065",2065,"Spartak Semey","Kazakhstan",1252
+"2066",2066,"Zagłębie Sosnowiec","Poland",1252
+"2067",2067,"Partizani Tirana","Albania",1252
+"2068",2068,"Gigira Laitepo","Papua New Guinea",1252
+"2069",2069,"Central Coast Mariners FC","Australia",1252
+"2070",2070,"Tsholotsho","Zimbabwe",1252
+"2071",2071,"Nkwazi","Zambia",1252
+"2072",2072,"Zimbabwe Saints","Zimbabwe",1252
+"2073",2073,"Young Africans","Tanzania",1252
+"2074",2074,"Rangdajied United","India",1252
+"2075",2075,"Hapoel Kfar Saba","Israel",1252
+"2076",2076,"Cosmos de Bafia","Cameroon",1252
+"2077",2077,"Al Ahly Merowe","Sudan",1252
+"2078",2078,"Ibanda Sport","Congo DR",1251
+"2079",2079,"Limerick","Ireland",1251
+"2080",2080,"UWI FC","Jamaica",1251
+"2081",2081,"AS Police","Mali",1251
+"2082",2082,"Rajasthan United","India",1251
+"2083",2083,"ONGC FC","India",1251
+"2084",2084,"FC Goa","India",1251
+"2085",2085,"Mighty Jets","Ghana",1251
+"2086",2086,"SKN Sankt Pölten","Austria",1251
+"2087",2087,"Persikabo 1973 (INA)","Indonesia",1251
+"2088",2088,"Kabasha","Congo DR",1251
+"2089",2089,"Marek Dupnitsa","Bulgaria",1251
+"2090",2090,"Social Sol","Honduras",1251
+"2091",2091,"Budafoki MTE","Hungary",1250
+"2092",2092,"Rudar Velenje","Slovenia",1250
+"2093",2093,"J.S. Groupe Bazano","Denmark",1250
+"2094",2094,"Yeni Malatyaspor","Turkey",1250
+"2095",2095,"FK Auda","Latvia",1250
+"2096",2096,"Kaloum Star","Guinea",1250
+"2097",2097,"LLB Académic","Burundi",1250
+"2098",2098,"Olympic Club","Congo DR",1250
+"2099",2099,"Shabab Al-Aqaba Club","Jordan",1250
+"2100",2100,"PA Sambizanga","Angola",1250
+"2101",2101,"Tianjin Jinmen Tiger F.C.","China PR",1250
+"2102",2102,"FK Šilas","Lithuania",1250
+"2103",2103,"AS Nyuki de Butembo","Denmark",1250
+"2104",2104,"Highway","Zimbabwe",1250
+"2105",2105,"Mgaear Al Sarhan","Jordan",1250
+"2106",2106,"Yadah FC","Zimbabwe",1250
+"2107",2107,"Nord Sport","Denmark",1250
+"2108",2108,"Al Fallah Atbara FC","Sudan",1250
+"2109",2109,"FK Olympic Tashkent","Uzbekistan",1250
+"2110",2110,"US Panda B5","Congo DR",1250
+"2111",2111,"Accra Lions FC","Ghana",1250
+"2112",2112,"Ahal FK","Turkmenistan",1250
+"2113",2113,"Persiram Raja Ampat","Indonesia",1250
+"2114",2114,"Aïn Fakroun","Algeria",1250
+"2115",2115,"Miramar Misiones","Uruguay",1250
+"2116",2116,"Nembe City FC","Nigeria",1250
+"2117",2117,"Platense","Honduras",1250
+"2118",2118,"Independiente FC","El Salvador",1250
+"2119",2119,"Sabé","Ivory Coast",1250
+"2120",2120,"Diables Noirs","Congo",1250
+"2121",2121,"CSMS Iaşi","Romania",1249
+"2122",2122,"Township Rollers","Botswana",1249
+"2123",2123,"Suva","Fiji",1249
+"2124",2124,"Sunkar","Kazakhstan",1249
+"2125",2125,"KF Tirana","Albania",1249
+"2126",2126,"Gaz Metan Mediaş","Romania",1249
+"2127",2127,"Ararat-Armenia FC","Armenia",1249
+"2128",2128,"Radnički 1923 Kragujevac","Serbia",1249
+"2129",2129,"Lincoln Red Imps FC","Gibraltar",1249
+"2130",2130,"Progresso Associação do Sambizanga","Angola",1249
+"2131",2131,"Deportivo Savio","Honduras",1249
+"2132",2132,"AC Kuya Sport","Congo DR",1249
+"2133",2133,"AS Kasserine","Tunisia",1249
+"2134",2134,"Young Green Eagles","Zambia",1249
+"2135",2135,"Azam","Tanzania",1249
+"2136",2136,"FC Alashkert","Armenia",1249
+"2137",2137,"AL Adalh FC","Saudi Arabia",1248
+"2138",2138,"Aalesund","Norway",1248
+"2139",2139,"Sliven","Bulgaria",1248
+"2140",2140,"Metalleghe BSI","Bosnia and Herzegovina",1248
+"2141",2141,"Al Akhaa Al Ahli","Lebanon",1248
+"2142",2142,"Dragon de Yaoundé","Cameroon",1248
+"2143",2143,"El Dorado","Denmark",1248
+"2144",2144,"Al Quwa Al Jawiya","Iraq",1248
+"2145",2145,"FK Kom Podgorica","Montenegro",1248
+"2146",2146,"Zestafoni","Georgia",1248
+"2147",2147,"FC Lubumbashi sport","Congo DR",1248
+"2148",2148,"Uniao Sport Clube do Uige","Angola",1248
+"2149",2149,"Wad Hashim SC Sennar","Sudan",1248
+"2150",2150,"C.D. Honduras Progreso","Honduras",1248
+"2151",2151,"Kuwait SC","Kuwait",1248
+"2152",2152,"Tamme Auto","Estonia",1248
+"2153",2153,"Jocoro FC","El Salvador",1248
+"2154",2154,"Hay Al Arab","Sudan",1248
+"2155",2155,"Molunge","Congo DR",1247
+"2156",2156,"Juventud Escuintleca","Guatemala",1247
+"2157",2157,"Al-Hussein SC Irbid","Jordan",1247
+"2158",2158,"Pelita Bandung Raya","Indonesia",1247
+"2159",2159,"Mitra Kukar","Indonesia",1247
+"2160",2160,"CS Fola Esch","Luxembourg",1247
+"2161",2161,"Warrior","Estonia",1247
+"2162",2162,"Verdes FC","Belize",1247
+"2163",2163,"La U Universitarios","Costa Rica",1247
+"2164",2164,"JCT FC","India",1247
+"2165",2165,"Platanias","Greece",1247
+"2166",2166,"Krumkachy Minsk","Belarus",1247
+"2167",2167,"Cunupia FC","Trinidad and Tobago",1247
+"2168",2168,"Stjarnan","Iceland",1247
+"2169",2169,"Deportivo Zulia","Venezuela",1246
+"2170",2170,"Ranchers Bees","Nigeria",1246
+"2171",2171,"Ha Noi TT","Vietnam",1246
+"2172",2172,"Gran Valencia FC","Venezuela",1246
+"2173",2173,"APEP","Cyprus",1246
+"2174",2174,"CSyD Carchá","Guatemala",1246
+"2175",2175,"Papua New Guinea U20","Papua New Guinea",1246
+"2176",2176,"Togo-Port","Uganda",1246
+"2177",2177,"Persita Tangerang","Indonesia",1246
+"2178",2178,"AS Nianan","Mali",1246
+"2179",2179,"Akademik Sofia","Bulgaria",1246
+"2180",2180,"Asyut Petrol","Egypt",1246
+"2181",2181,"FC Pasching","Austria",1246
+"2182",2182,"Al Qadsia","Kuwait",1245
+"2183",2183,"Petro Souths","Papua New Guinea",1245
+"2184",2184,"Club Olympique de Médenine","Tunisia",1245
+"2185",2185,"Flame Lilly","Zimbabwe",1245
+"2186",2186,"Qizilqum Zarafshon","Uzbekistan",1245
+"2187",2187,"Mash'al Muborak","Uzbekistan",1245
+"2188",2188,"Eleven Wise","Ghana",1245
+"2189",2189,"DSK Shivajians","India",1245
+"2190",2190,"NK Istra 1961","Croatia",1245
+"2191",2191,"Harbour View","Jamaica",1245
+"2192",2192,"Differdange 03","Luxembourg",1245
+"2193",2193,"Olympique de Missira","Mali",1245
+"2194",2194,"FC Maktaaral","Kazakhstan",1245
+"2195",2195,"Persik Kediri","Indonesia",1245
+"2196",2196,"Atlético do Namibe","Angola",1245
+"2197",2197,"H&H Export Sébaco FC","Nicaragua",1245
+"2198",2198,"Underhill","Zimbabwe",1245
+"2199",2199,"Diaraf","Senegal",1244
+"2200",2200,"FC MK","Congo DR",1244
+"2201",2201,"FC Renaissance du Congo","Denmark",1244
+"2202",2202,"Al-Ahli Atbara","Sudan",1244
+"2203",2203,"Etoile du Kivu","Congo DR",1244
+"2204",2204,"MSP Batna","Algeria",1244
+"2205",2205,"Persijap Jepara","Indonesia",1244
+"2206",2206,"Ubon UMT FC","Thailand",1244
+"2207",2207,"Binh Duong","Vietnam",1244
+"2208",2208,"Tiare Tahiti","Syria",1244
+"2209",2209,"Al-Markhiya Sports Club","Qatar",1244
+"2210",2210,"Skalica","Slovakia",1244
+"2211",2211,"Tokushima Vortis","Japan",1244
+"2212",2212,"Adzopé","Ivory Coast",1244
+"2213",2213,"Mjøndalen IF","Norway",1244
+"2214",2214,"Saint-Clément","Congo DR",1243
+"2215",2215,"CS Mioveni","Romania",1243
+"2216",2216,"Tempête","Haiti",1243
+"2217",2217,"Kukesi","Albania",1243
+"2218",2218,"Marist","Solomon Islands",1243
+"2219",2219,"Point Fortin FC","Trinidad and Tobago",1243
+"2220",2220,"Mbabane Swallows","Sudan",1243
+"2221",2221,"Araz PFK","Azerbaijan",1243
+"2222",2222,"Tenax CS FC","Zimbabwe",1243
+"2223",2223,"Forge FC","Canada",1243
+"2224",2224,"Szolnoki MÁV","Hungary",1243
+"2225",2225,"El Nasr Tadeen","Egypt",1243
+"2226",2226,"Rewa","Fiji",1243
+"2227",2227,"Sportist Svoge","Bulgaria",1243
+"2228",2228,"Mumbai City FC","India",1243
+"2229",2229,"Erakor Golden Star","Vanuatu",1243
+"2230",2230,"FC Gagra","Georgia",1243
+"2231",2231,"Vostok","Kazakhstan",1243
+"2232",2232,"Shabab El Bourj SC","Lebanon",1243
+"2233",2233,"Santos de Angola","Angola",1243
+"2234",2234,"Lyngby","Denmark",1242
+"2235",2235,"FK Mladost Doboj Kakanj","Bosnia and Herzegovina",1242
+"2236",2236,"Muungano","Congo DR",1242
+"2237",2237,"Alkali Nassara","Niger",1242
+"2238",2238,"Haverfordwest County","Wales",1242
+"2239",2239,"FK Gorno Lisice","Macedonia",1242
+"2240",2240,"Concordia Chiajna","Romania",1242
+"2241",2241,"CD Audaz","El Salvador",1242
+"2242",2242,"Mont Bleu","Denmark",1242
+"2243",2243,"Kerala Blasters FC","India",1242
+"2244",2244,"Lajong SC","India",1242
+"2245",2245,"Kalyani Bharat FC","India",1242
+"2246",2246,"GD Baixa de Kassanje","Angola",1242
+"2247",2247,"Interblock","Slovenia",1242
+"2248",2248,"Haskovo 2009","Bulgaria",1242
+"2249",2249,"Al-Khor","Qatar",1241
+"2250",2250,"NK Zagreb","Croatia",1241
+"2251",2251,"Kazakhmys","Kazakhstan",1241
+"2252",2252,"FH Hafnarfjordur","Iceland",1241
+"2253",2253,"GFK Tikvesh","Nigeria",1241
+"2254",2254,"Academia Cantolao","Peru",1241
+"2255",2255,"Moossou FC","Ivory Coast",1241
+"2256",2256,"Roan United","Zambia",1241
+"2257",2257,"Wassaman United","Ghana",1241
+"2258",2258,"JSK Chabab Kasba Tadla","Morocco",1241
+"2259",2259,"Northeast United FC","India",1241
+"2260",2260,"Sabana de Mopti","Mali",1241
+"2261",2261,"AC Mamahira","Mali",1241
+"2262",2262,"FC Simba","Denmark",1241
+"2263",2263,"Espoir","Niger",1241
+"2264",2264,"Partizan Minsk","Belarus",1241
+"2265",2265,"FC Spicul Chișcăreni","Moldova",1241
+"2266",2266,"Ndoki ya Ndombe","Congo DR",1241
+"2267",2267,"Standard","Azerbaijan",1241
+"2268",2268,"PAEEK","Cyprus",1240
+"2269",2269,"Dunfermline Athletic","Scotland",1240
+"2270",2270,"Ouragahio","Ivory Coast",1240
+"2271",2271,"Gahar Zagros","Iran",1240
+"2272",2272,"Armed Forces","Singapore",1240
+"2273",2273,"Atlético Chiriquí","Panama",1240
+"2274",2274,"Tiburones Rojos de Veracruz","Mexico",1240
+"2275",2275,"NK Krsko","Slovenia",1240
+"2276",2276,"FK Atlantas","Lithuania",1240
+"2277",2277,"Coatepeque","Guatemala",1240
+"2278",2278,"Deltras Sidoarjo","Indonesia",1240
+"2279",2279,"Wexford Youths","Ireland",1240
+"2280",2280,"Maverly Hughenden FC","Jamaica",1240
+"2281",2281,"Veraguas FC","Panama",1239
+"2282",2282,"Racing de Casablanca","Morocco",1239
+"2283",2283,"Lys Sassandra","Ivory Coast",1239
+"2284",2284,"Xinabajul","Guatemala",1239
+"2285",2285,"Nakhon Pathom","Thailand",1239
+"2286",2286,"Cranborne Bullets FC","Zimbabwe",1239
+"2287",2287,"ASM Oran","Algeria",1239
+"2288",2288,"Tafea FC","Vanuatu",1239
+"2289",2289,"FK Zlatibor Čajetina","Serbia",1238
+"2290",2290,"Mansheyat Bani Hasan","Jordan",1238
+"2291",2291,"PSMS","Indonesia",1238
+"2292",2292,"Lokomotivi Tbilisi","Georgia",1238
+"2293",2293,"Socozaki","Denmark",1238
+"2294",2294,"Sportive de Djerba","Tunisia",1238
+"2295",2295,"Jwaneng Galaxy FC","Botswana",1238
+"2296",2296,"Meshki Pooshan Football Club","Iran",1238
+"2297",2297,"Cibalia","Croatia",1237
+"2298",2298,"Forest Rangers","Zambia",1237
+"2299",2299,"Bulawayo City FC","Zimbabwe",1237
+"2300",2300,"UNAN Managua","Nicaragua",1237
+"2301",2301,"AFC Eskilstuna","Sweden",1237
+"2302",2302,"Hardbody","Zimbabwe",1237
+"2303",2303,"Bukavu Dawa","Congo DR",1237
+"2304",2304,"Hilal El-Fasher","Sudan",1237
+"2305",2305,"Lyn","Norway",1237
+"2306",2306,"Al-Dhafra","United Arab Emirates",1237
+"2307",2307,"Chambishi FC","Zambia",1237
+"2308",2308,"Bellinzona","Switzerland",1237
+"2309",2309,"Bray Wanderers","Ireland",1237
+"2310",2310,"Germinal Beerschot","Belgium",1237
+"2311",2311,"Beijing Renhe","China PR",1237
+"2312",2312,"Perseru Badak Lampung","Indonesia",1237
+"2313",2313,"CD Real de Minas","Honduras",1236
+"2314",2314,"Sudeva Delhi FC","India",1236
+"2315",2315,"Saurimo FC","Angola",1236
+"2316",2316,"Chiangmai FC","Thailand",1236
+"2317",2317,"Cibao","Denmark",1236
+"2318",2318,"Roumde Adjia","Cameroon",1236
+"2319",2319,"Villa Espanola","Uruguay",1236
+"2320",2320,"Prestatyn Town FC","Wales",1236
+"2321",2321,"Malampa Revivors FC","Vanuatu",1236
+"2322",2322,"NK Varaždin","Croatia",1236
+"2323",2323,"Kenkre FC","India",1235
+"2324",2324,"Khorfakkan Club","United Arab Emirates",1235
+"2325",2325,"Al-Shahania S.C.","Qatar",1235
+"2326",2326,"Tonnerre Kalara Club","Cameroon",1235
+"2327",2327,"AC Rangers","Denmark",1235
+"2328",2328,"Deportivo Las Sabanas","Nicaragua",1235
+"2329",2329,"FK Bregalnica Stip","Macedonia",1235
+"2330",2330,"Dongo","Zimbabwe",1235
+"2331",2331,"Kfarsoum","Jordan",1235
+"2332",2332,"Hamilton Academical","Scotland",1235
+"2333",2333,"AS Avenir de Tombouctou","Mali",1235
+"2334",2334,"CO Bouafle","Ivory Coast",1235
+"2335",2335,"Eastern Sports Club","Hong Kong",1235
+"2336",2336,"Ferroviário Do Huambo","Angola",1235
+"2337",2337,"Malekesa","Congo DR",1234
+"2338",2338,"Speranţa Crihana","Moldova",1234
+"2339",2339,"Saint-Luc","Congo DR",1234
+"2340",2340,"Babeti ya Sika","Congo DR",1234
+"2341",2341,"Al Hilal Port Sudan","Sudan",1234
+"2342",2342,"Jyvaskyla JK","Finland",1234
+"2343",2343,"Kafue Celtic","Zambia",1234
+"2344",2344,"FK Spartaks","Latvia",1234
+"2345",2345,"FC Masr","Egypt",1234
+"2346",2346,"Yopougon FC","Ivory Coast",1234
+"2347",2347,"FC Helsingør","Denmark",1234
+"2348",2348,"ND Triglav","Slovenia",1233
+"2349",2349,"Hiré","Ivory Coast",1233
+"2350",2350,"Valencia de Leogane","Haiti",1233
+"2351",2351,"FC Edmonton","Canada",1233
+"2352",2352,"Aswan FC","Egypt",1233
+"2353",2353,"Olimpik Sarajevo","Bosnia and Herzegovina",1233
+"2354",2354,"Hapoel Ramat Gan","Israel",1233
+"2355",2355,"North Eastern Re Organising Cultural Association","India",1233
+"2356",2356,"Gloria Bistrita","Romania",1233
+"2357",2357,"Ajman Club","United Arab Emirates",1233
+"2358",2358,"Al Ahli Wad Medani","Sudan",1233
+"2359",2359,"Kapfenberger SV","Austria",1233
+"2360",2360,"TTM Chiangmai","Thailand",1233
+"2361",2361,"Merikh Kosti","Sudan",1233
+"2362",2362,"Montedio Yamagata","Japan",1232
+"2363",2363,"Lusaka Dynamos","Zambia",1232
+"2364",2364,"Club Sando","Trinidad and Tobago",1232
+"2365",2365,"NAPSA Stars FC","Zambia",1232
+"2366",2366,"Hapoel Ra'anana","Israel",1232
+"2367",2367,"Cavaly","Haiti",1232
+"2368",2368,"WaiBOP United","New Zealand",1232
+"2369",2369,"Hapoel Ironi Akko","Israel",1232
+"2370",2370,"Lovćen","Montenegro",1232
+"2371",2371,"Puaikura","Cook Islands",1232
+"2372",2372,"Ndjadi","Congo DR",1232
+"2373",2373,"FC Pune City","India",1232
+"2374",2374,"AEZ Zakakiou","Cyprus",1232
+"2375",2375,"Jeunesse Sportive de Kinshasa","Congo DR",1232
+"2376",2376,"Matiti Mabe","Congo DR",1231
+"2377",2377,"CS Makiso","Congo DR",1231
+"2378",2378,"Nkoy","Congo DR",1231
+"2379",2379,"FC Ma'an","Jordan",1231
+"2380",2380,"Maccabi Ahi Nazareth","Israel",1231
+"2381",2381,"Trelleborgs FF","Sweden",1231
+"2382",2382,"Neftchi","Uzbekistan",1231
+"2383",2383,"Zumunta","Niger",1231
+"2384",2384,"Tripoli AC","Lebanon",1231
+"2385",2385,"PK-35 Vantaa","Finland",1231
+"2386",2386,"FK Senica","Slovakia",1230
+"2387",2387,"Union Deportivo Universitario","Panama",1230
+"2388",2388,"Chirag Kerala","India",1230
+"2389",2389,"Dauphins Noirs","Congo DR",1230
+"2390",2390,"Kalteng Putra","Indonesia",1230
+"2391",2391,"Bantu Rovers","Zimbabwe",1230
+"2392",2392,"Start","Norway",1230
+"2393",2393,"Liaoning Hongyun","China PR",1230
+"2394",2394,"Al-Jalil","Jordan",1230
+"2395",2395,"Lumwana Radiants","Zambia",1230
+"2396",2396,"Tasman United","New Zealand",1230
+"2397",2397,"Al Amir","Sudan",1230
+"2398",2398,"FK Borec Veles","Nigeria",1230
+"2399",2399,"Nacional de Benguela","Angola",1230
+"2400",2400,"Syrianska","Sweden",1229
+"2401",2401,"Khonkaen","Thailand",1229
+"2402",2402,"FK Turan","Uzbekistan",1229
+"2403",2403,"Thai Honda","Thailand",1229
+"2404",2404,"Elmina Sharks","Ghana",1229
+"2405",2405,"Tripple B","Zimbabwe",1229
+"2406",2406,"Deportiva Carmelita","Costa Rica",1229
+"2407",2407,"Colón C-3","Panama",1229
+"2408",2408,"Morobe Wawens","Papua New Guinea",1229
+"2409",2409,"Centro Ítalo","Venezuela",1228
+"2410",2410,"Manu Ura","Tahiti",1228
+"2411",2411,"Al Urooba Club","United Arab Emirates",1228
+"2412",2412,"Pasaquina F.C.","El Salvador",1228
+"2413",2413,"Club Atletico Pantoja","Denmark",1228
+"2414",2414,"Hrvatski Dragovoljac","Croatia",1228
+"2415",2415,"Slavija Sarajevo","Bosnia and Herzegovina",1228
+"2416",2416,"Al Nasr FC","Egypt",1228
+"2417",2417,"Dragón","El Salvador",1228
+"2418",2418,"Deportivo Petare","Venezuela",1228
+"2419",2419,"Kalulushi Modern Stars","Zambia",1227
+"2420",2420,"FK Skopje","Macedonia",1227
+"2421",2421,"Pirin Gotse Delchev","Bulgaria",1227
+"2422",2422,"Rojolu","Congo DR",1227
+"2423",2423,"Club Omnisports de Korhogo (CIV)","Ivory Coast",1227
+"2424",2424,"Nitra","Slovakia",1227
+"2425",2425,"FK Podgorica","Montenegro",1227
+"2426",2426,"Trat FC","Thailand",1227
+"2427",2427,"Tucanes FC","Venezuela",1227
+"2428",2428,"JL Chiangmai United FC","Thailand",1227
+"2429",2429,"Bantous","Congo DR",1227
+"2430",2430,"Sigui","Mali",1226
+"2431",2431,"Persitara Jakarta","Indonesia",1226
+"2432",2432,"Al Ansar FC (Medina)","Saudi Arabia",1226
+"2433",2433,"FK Pohronie","Slovakia",1226
+"2434",2434,"Chiredzi FC","Zimbabwe",1226
+"2435",2435,"Daejeon Citizen","South Korea",1226
+"2436",2436,"CD Olmedo","Ecuador",1226
+"2437",2437,"Səbail FK","Azerbaijan",1226
+"2438",2438,"Siam Navy FC","Thailand",1225
+"2439",2439,"United Sikkim F.C","India",1225
+"2440",2440,"FC Academia Chisinau","Moldova",1225
+"2441",2441,"Apollon Smyrnis","Greece",1225
+"2442",2442,"EFYM","Ivory Coast",1225
+"2443",2443,"Porthmadog","Wales",1225
+"2444",2444,"NK Rudeš","Croatia",1225
+"2445",2445,"Hoverla Uzhhorod","Ukraine",1225
+"2446",2446,"Al Shorta Al Qadarif","Sudan",1225
+"2447",2447,"Jomo Cosmos","South Africa",1225
+"2448",2448,"Santa Rita de Cássia FC","Angola",1225
+"2449",2449,"Atletico Socopo","Venezuela",1225
+"2450",2450,"Victoria","Zimbabwe",1225
+"2451",2451,"Kruoja Pakruojis","Lithuania",1225
+"2452",2452,"Ohod Saudi FC","Saudi Arabia",1224
+"2453",2453,"Sporting Central Academy","Jamaica",1224
+"2454",2454,"Mladost Velika","Bosnia and Herzegovina",1224
+"2455",2455,"Douglas Warriors","Zimbabwe",1224
+"2456",2456,"Rivoli United","Jamaica",1224
+"2457",2457,"AL Tadamon Sour","Lebanon",1224
+"2458",2458,"PS Kemi","Finland",1224
+"2459",2459,"Revan Baku","Azerbaijan",1224
+"2460",2460,"SD Atletico Nacional","Panama",1224
+"2461",2461,"Al Shabab Al Arabi Beirut","Lebanon",1224
+"2462",2462,"Air India","India",1224
+"2463",2463,"Džiugas Telšiai","Lithuania",1224
+"2464",2464,"Jangorzo","Niger",1224
+"2465",2465,"ES Bingerville","Ivory Coast",1224
+"2466",2466,"Urena SC","Venezuela",1223
+"2467",2467,"Office Niger Sports","Mali",1223
+"2468",2468,"Al Mourada","Sudan",1223
+"2469",2469,"Domant FC","Angola",1223
+"2470",2470,"Johvi FC Lokomotiv","Estonia",1223
+"2471",2471,"Montego Bay United","Jamaica",1223
+"2472",2472,"SK Babīte","Latvia",1223
+"2473",2473,"Vutuka","Congo DR",1223
+"2474",2474,"Lime Hotspurs","Zambia",1223
+"2475",2475,"GOŠK Gabela","Bosnia and Herzegovina",1223
+"2476",2476,"Montana","Bulgaria",1223
+"2477",2477,"Persela Lamongan","Indonesia",1222
+"2478",2478,"Porcelana FC","Angola",1222
+"2479",2479,"RC Kinshasa","Congo DR",1222
+"2480",2480,"Debo Club","Mali",1222
+"2481",2481,"FB Gulbene","Latvia",1222
+"2482",2482,"Atlético El Vigía","Venezuela",1222
+"2483",2483,"Xorazm","Uzbekistan",1222
+"2484",2484,"Surkhon-2011","Uzbekistan",1222
+"2485",2485,"CAS de Sévaré","Mali",1222
+"2486",2486,"Police FC","Niger",1222
+"2487",2487,"Konkola Mine Police","Zambia",1221
+"2488",2488,"Buxoro","Uzbekistan",1221
+"2489",2489,"AS Eliwidj FC","Mali",1221
+"2490",2490,"Al Asalah","Jordan",1221
+"2491",2491,"CA Bordj Bou Arreridj","Algeria",1221
+"2492",2492,"FK Inđija","Serbia",1221
+"2493",2493,"Songkhla United FC","Thailand",1221
+"2494",2494,"Nakambala Leopards","Zambia",1221
+"2495",2495,"AE Kouklion","Cyprus",1221
+"2496",2496,"Vidima-Rakovski","Bulgaria",1221
+"2497",2497,"Hamilton Wanderers Afc","New Zealand",1221
+"2498",2498,"Real Sociedad","Honduras",1221
+"2499",2499,"Karabükspor","Turkey",1221
+"2500",2500,"San Juan Jabloteh","Trinidad and Tobago",1220
+"2501",2501,"T&TEC","Trinidad and Tobago",1220
+"2502",2502,"Smederevo","Serbia",1220
+"2503",2503,"Caledonia AIA","Trinidad and Tobago",1220
+"2504",2504,"Konkola Blades","Zambia",1220
+"2505",2505,"Opava","Czech Republic",1220
+"2506",2506,"Shortan Guzor","Uzbekistan",1220
+"2507",2507,"Madang","Papua New Guinea",1220
+"2508",2508,"Tanta","Egypt",1220
+"2509",2509,"FC Merani Tbilisi","Georgia",1220
+"2510",2510,"Karvan","Azerbaijan",1219
+"2511",2511,"Yafoot FC Yaounde 2","Cameroon",1219
+"2512",2512,"Machine Sazi FC","Iran",1219
+"2513",2513,"Eger","Hungary",1219
+"2514",2514,"Alpha United","Guyana",1219
+"2515",2515,"Orión","Costa Rica",1218
+"2516",2516,"Borac Čačak","Serbia",1218
+"2517",2517,"Shanghai Shenxin","China PR",1218
+"2518",2518,"Quelaton","Zimbabwe",1218
+"2519",2519,"Tshinkunku","Congo DR",1218
+"2520",2520,"Sport Lubango e Benfica","Angola",1218
+"2521",2521,"AS Lossi","New Caledonia",1218
+"2522",2522,"Bontang PKT","Indonesia",1218
+"2523",2523,"Sporting Beirut","Lebanon",1218
+"2524",2524,"Yaracuyanos FC","Venezuela",1218
+"2525",2525,"1º de Maio","Angola",1218
+"2526",2526,"North Queensland Fury","Australia",1218
+"2527",2527,"Welshpool Town","Wales",1218
+"2528",2528,"NK Zvijezda Gradacac","Bosnia and Herzegovina",1218
+"2529",2529,"PTT Rayong FC","Thailand",1217
+"2530",2530,"WhaWha","Zimbabwe",1217
+"2531",2531,"Hapoel Ashkelon","Israel",1217
+"2532",2532,"Wellington Phoenix Reserves","New Zealand",1217
+"2533",2533,"Wanderers SC","New Zealand",1217
+"2534",2534,"Adamawa United","Nigeria",1217
+"2535",2535,"Jazeerat Al Feel","Sudan",1217
+"2536",2536,"FC KTP","Finland",1217
+"2537",2537,"AD Municipal Liberia","Costa Rica",1217
+"2538",2538,"Corona Braşov","Romania",1217
+"2539",2539,"Anagennisi Deryneia","Cyprus",1216
+"2540",2540,"FC Samtredia","Georgia",1216
+"2541",2541,"Naftan Novopolotsk","Belarus",1216
+"2542",2542,"Stade Malien Sikasso","Mali",1216
+"2543",2543,"Qingdao FC","China PR",1216
+"2544",2544,"Tulevik Viljandi","Estonia",1216
+"2545",2545,"FK Guliston","Uzbekistan",1216
+"2546",2546,"Dibba Al-Fujairah Club","United Arab Emirates",1216
+"2547",2547,"Łódzki KS","Poland",1216
+"2548",2548,"Mont-Dore","New Caledonia",1215
+"2549",2549,"Racing Beirut","Lebanon",1215
+"2550",2550,"Tampines Rovers FC","Singapore",1215
+"2551",2551,"Al Ittihad","Sudan",1215
+"2552",2552,"Kaliakra","Bulgaria",1215
+"2553",2553,"San José","Bolivia",1215
+"2554",2554,"El Nsoor","Sudan",1215
+"2555",2555,"Atlético Veragüense","Panama",1215
+"2556",2556,"CD Junior Managua","Nicaragua",1215
+"2557",2557,"Al-Kharitiyat","Qatar",1214
+"2558",2558,"Al-Yarmouk FC","Jordan",1214
+"2559",2559,"Travnik","Bosnia and Herzegovina",1214
+"2560",2560,"Universitario de Cobija","Bolivia",1214
+"2561",2561,"CD Sonsonate","El Salvador",1214
+"2562",2562,"Kozara Gradiška","Bosnia and Herzegovina",1214
+"2563",2563,"Destroyers","Bolivia",1213
+"2564",2564,"CF Ungheni","Moldova",1213
+"2565",2565,"Lootus","Estonia",1213
+"2566",2566,"FK Utenis Utena","Lithuania",1213
+"2567",2567,"Kaya F.C.-Iloilo","Peru",1213
+"2568",2568,"Molynes United FC","Jamaica",1213
+"2569",2569,"FC Stumbras","Lithuania",1212
+"2570",2570,"Rudar Prijedor","Bosnia and Herzegovina",1212
+"2571",2571,"Real Tamale","Ghana",1212
+"2572",2572,"SK Super Nova","Latvia",1212
+"2573",2573,"MOIK","Azerbaijan",1212
+"2574",2574,"FC Smorgon","Belarus",1212
+"2575",2575,"Gagauziya","Moldova",1212
+"2576",2576,"Al Rabta Kosti","Sudan",1212
+"2577",2577,"CSyD Nueva Concepción","Guatemala",1211
+"2578",2578,"Atlético Marte","El Salvador",1211
+"2579",2579,"Sahab SC","Jordan",1211
+"2580",2580,"Austria Kärnten","Austria",1211
+"2581",2581,"Sporting de Cabinda","Angola",1210
+"2582",2582,"Alacranes del Norte","El Salvador",1210
+"2583",2583,"Sisaket FC","Thailand",1210
+"2584",2584,"Black Leopards","South Africa",1209
+"2585",2585,"Raja Beni Mellal","Morocco",1209
+"2586",2586,"FC Saxan","Moldova",1209
+"2587",2587,"CD Petapa","Guatemala",1209
+"2588",2588,"FC Sioni Bolnisi","Georgia",1209
+"2589",2589,"Al Islah Bourg Shamaly","Lebanon",1209
+"2590",2590,"Croatia Sesvete","Croatia",1209
+"2591",2591,"Juventus Bucureşti","Romania",1209
+"2592",2592,"Trujillanos FC","Venezuela",1209
+"2593",2593,"Sandals South Coast","Jamaica",1209
+"2594",2594,"Turan Tovuz","Azerbaijan",1209
+"2595",2595,"Al-Mergheni","Sudan",1209
+"2596",2596,"Llaneros de Guanare","Venezuela",1208
+"2597",2597,"Nadi","Fiji",1208
+"2598",2598,"Caroní","Venezuela",1208
+"2599",2599,"Art Municipal Jalapa","Nicaragua",1208
+"2600",2600,"Kitwe United","Zambia",1208
+"2601",2601,"Ittihad Al-Ramtha","Jordan",1208
+"2602",2602,"Svetkavitsa","Bulgaria",1208
+"2603",2603,"Esteghlal Ahvaz","Iran",1208
+"2604",2604,"United City F.C.","Peru",1207
+"2605",2605,"Atar Club","Mali",1207
+"2606",2606,"Falkenbergs FF","Sweden",1206
+"2607",2607,"Samut Songkram","Thailand",1206
+"2608",2608,"Al Shimali","Sudan",1206
+"2609",2609,"Real Potosí","Bolivia",1206
+"2610",2610,"TOT","Thailand",1206
+"2611",2611,"Al Ittihad Kalba","United Arab Emirates",1206
+"2612",2612,"Dundee FC","Scotland",1206
+"2613",2613,"Al-Nil","Sudan",1206
+"2614",2614,"Chivas USA","United States",1206
+"2615",2615,"Muaither SC","Qatar",1206
+"2616",2616,"Estudiantes de Caracas","Venezuela",1206
+"2617",2617,"FK Jelgava","Latvia",1205
+"2618",2618,"CD Ocotal","Nicaragua",1204
+"2619",2619,"AL Hazem FC","Saudi Arabia",1204
+"2620",2620,"Sapovnela","Georgia",1204
+"2621",2621,"FC Cincinnati","United States",1204
+"2622",2622,"UES","El Salvador",1203
+"2623",2623,"Bekaa SC","Lebanon",1203
+"2624",2624,"Fk Metalurg Skopje","Macedonia",1203
+"2625",2625,"FC Rustavi","Georgia",1203
+"2626",2626,"Real Mamoré","Bolivia",1203
+"2627",2627,"Vere United FC","Jamaica",1203
+"2628",2628,"Lyubimets","Bulgaria",1203
+"2629",2629,"Juventus Managua","Nicaragua",1203
+"2630",2630,"Barbican FC","Jamaica",1203
+"2631",2631,"Fuerza Amarilla SC","Ecuador",1202
+"2632",2632,"WA Tlemcen","Algeria",1202
+"2633",2633,"Dinamo Samarkand","Uzbekistan",1202
+"2634",2634,"Pápa","Hungary",1202
+"2635",2635,"Brong Ahafo Stars","Ghana",1201
+"2636",2636,"Academia Quintana","Puerto Rico",1201
+"2637",2637,"Carolina Gigantes","Puerto Rico",1201
+"2638",2638,"ACS FC Academica Clinceni","Romania",1200
+"2639",2639,"Smolevichy","Belarus",1200
+"2640",2640,"FK Drina Zvornik","Bosnia and Herzegovina",1200
+"2641",2641,"Chinandega FC","Nicaragua",1200
+"2642",2642,"Maardu Linnameeskond","Estonia",1199
+"2643",2643,"Guaynabo Fluminense","Puerto Rico",1199
+"2644",2644,"Al Mesaimeer","Qatar",1199
+"2645",2645,"Mornar","Montenegro",1199
+"2646",2646,"Karmiotissa Pano Polemidion","Cyprus",1199
+"2647",2647,"Southern United","New Zealand",1198
+"2648",2648,"Mayagüez","Puerto Rico",1198
+"2649",2649,"FC Kuressaare","Estonia",1198
+"2650",2650,"FK Palanga","Lithuania",1198
+"2651",2651,"Brommapojkarna","Sweden",1197
+"2652",2652,"Zaprešić","Croatia",1197
+"2653",2653,"Dubai Club","United Arab Emirates",1197
+"2654",2654,"Dinamo Bender","Moldova",1197
+"2655",2655,"Gradina Srebrenik","Bosnia and Herzegovina",1196
+"2656",2656,"Al-Hikma","Lebanon",1195
+"2657",2657,"Persiraja Aceh","Indonesia",1195
+"2658",2658,"Sporting Clube de Benguela","Angola",1195
+"2659",2659,"Caersws","Wales",1195
+"2660",2660,"Alki","Cyprus",1194
+"2661",2661,"Al-Shamal SC","Qatar",1194
+"2662",2662,"That Ras Club","Jordan",1194
+"2663",2663,"Shabab AL Ghazieh SC","Lebanon",1194
+"2664",2664,"Pelister","Macedonia",1193
+"2665",2665,"Lupe ole Soaga","Samoa",1193
+"2666",2666,"Vitez","Bosnia and Herzegovina",1193
+"2667",2667,"Hindustan Aero","India",1193
+"2668",2668,"Al Ahli SC Amman","Jordan",1193
+"2669",2669,"FK Belasica Strumica","Macedonia",1193
+"2670",2670,"Al-Sareeh SC","Jordan",1193
+"2671",2671,"Kaposvári Rákóczi","Hungary",1193
+"2672",2672,"Jedinstvo BP","Montenegro",1192
+"2673",2673,"FC Guria Lanchkhuti","Georgia",1192
+"2674",2674,"Puerto Rico United","Puerto Rico",1191
+"2675",2675,"Indeni FC","Zambia",1191
+"2676",2676,"Tupapa Maraerenga","Cook Islands",1190
+"2677",2677,"Ala'ab Damanhour","Egypt",1190
+"2678",2678,"Noah Jūrmala","Latvia",1190
+"2679",2679,"BBCU FC","Thailand",1190
+"2680",2680,"Napredok","Macedonia",1190
+"2681",2681,"Rakvere JK Tarvas","Estonia",1190
+"2682",2682,"JSM Skikda","Algeria",1189
+"2683",2683,"HB Køge","Denmark",1189
+"2684",2684,"Al Fujairah","United Arab Emirates",1189
+"2685",2685,"Hatta","United Arab Emirates",1189
+"2686",2686,"Klaipedos Granitas","Lithuania",1189
+"2687",2687,"Newry City AFC","Northern Ireland",1189
+"2688",2688,"FK Teteks","Macedonia",1189
+"2689",2689,"JS Kairouanaise","Tunisia",1188
+"2690",2690,"Air Force Central FC","Thailand",1188
+"2691",2691,"Hajer FC Al-Hasa","Saudi Arabia",1188
+"2692",2692,"Ballinamallard United","Northern Ireland",1187
+"2693",2693,"Fajardo","Puerto Rico",1187
+"2694",2694,"National Assembly","Zambia",1186
+"2695",2695,"FK Leotar","Bosnia and Herzegovina",1186
+"2696",2696,"Reno FC","Jamaica",1186
+"2697",2697,"Salam Zgharta","Lebanon",1186
+"2698",2698,"FK Gostivar","Macedonia",1185
+"2699",2699,"Afan Lido","Wales",1185
+"2700",2700,"Tatran Prešov","Slovakia",1183
+"2701",2701,"Ilukstes NSS","Latvia",1183
+"2702",2702,"Mladost CD","Macedonia",1183
+"2703",2703,"Pobeda","Macedonia",1183
+"2704",2704,"FC Shukura Kobuleti","Georgia",1181
+"2705",2705,"Dnepr Mogilev","Belarus",1181
+"2706",2706,"Banga Gargzdai","Lithuania",1181
+"2707",2707,"Nistru","Moldova",1181
+"2708",2708,"AC LALA FC","Venezuela",1180
+"2709",2709,"FK Tukums 2000","Latvia",1180
+"2710",2710,"FK Sputnik Rechytsa","Belarus",1180
+"2711",2711,"WIT Georgia Tbilisi","Georgia",1180
+"2712",2712,"Vitosha Bistritsa","Bulgaria",1179
+"2713",2713,"Al Egtmaaey Tripoli","Lebanon",1179
+"2714",2714,"Lietava Jonava","Lithuania",1179
+"2715",2715,"La Paz","Bolivia",1178
+"2716",2716,"Kiwi","Samoa",1178
+"2717",2717,"Paernu Linnameeskond","Estonia",1177
+"2718",2718,"Police","Trinidad and Tobago",1177
+"2719",2719,"Portadown FC","Northern Ireland",1176
+"2720",2720,"Ayia Napa","Cyprus",1175
+"2721",2721,"FK Tauras Taurage","Lithuania",1174
+"2722",2722,"Berane","Montenegro",1174
+"2723",2723,"Institute FC","Northern Ireland",1174
+"2724",2724,"Ards","Northern Ireland",1174
+"2725",2725,"Young Heart Manawatu","New Zealand",1174
+"2726",2726,"Ajax Lasnamäe","Estonia",1173
+"2727",2727,"Merani Martvili","Georgia",1172
+"2728",2728,"Boys' Town","Jamaica",1172
+"2729",2729,"Nevėžis Kėdainiai","Lithuania",1171
+"2730",2730,"Arrows","India",1171
+"2731",2731,"Cefn Druids AFC","Wales",1170
+"2732",2732,"Real Madriz","Nicaragua",1169
+"2733",2733,"Vereya","Bulgaria",1169
+"2734",2734,"Al-Shaab","United Arab Emirates",1169
+"2735",2735,"FC Floreşti","Moldova",1168
+"2736",2736,"Tornados de Humacao","Puerto Rico",1166
+"2737",2737,"Niki Volou","Greece",1166
+"2738",2738,"Emirates Club","United Arab Emirates",1166
+"2739",2739,"Mačva Šabac","Serbia",1166
+"2740",2740,"Obod","Uzbekistan",1165
+"2741",2741,"Caguas Huracán","Puerto Rico",1165
+"2742",2742,"FC Zugdidi","Georgia",1164
+"2743",2743,"Andijon","Uzbekistan",1163
+"2744",2744,"University College Dublin","Ireland",1161
+"2745",2745,"Longford Town","Ireland",1161
+"2746",2746,"Siauliai","Lithuania",1159
+"2747",2747,"Gresik United FC","Indonesia",1159
+"2748",2748,"FK Bačka Palanka","Serbia",1158
+"2749",2749,"FC Torpedo Minsk","Belarus",1156
+"2750",2750,"Al-Baqa'a SC","Jordan",1156
+"2751",2751,"Tobago United","Trinidad and Tobago",1153
+"2752",2752,"FOX Villa FC","Nicaragua",1153
+"2753",2753,"FC Kolkheti-1913 Poti","Georgia",1152
+"2754",2754,"FC Jurmala","Latvia",1149
+"2755",2755,"Pärnu JK Vaprus","Estonia",1144
+"2756",2756,"Carrick Rangers","Northern Ireland",1144
+"2757",2757,"Talinna Kalev","Estonia",1144
+"2758",2758,"BFC Daugavpils","Latvia",1142
+"2759",2759,"FC Codru Lozova","Moldova",1138
+"2760",2760,"South End","Trinidad and Tobago",1137
+"2761",2761,"Metalurh Zaporizhya","Ukraine",1130
+"2762",2762,"Dainava Alytus","Lithuania",1128
+"2763",2763,"Dungannon Swifts","Northern Ireland",1122
+"2764",2764,"Warrenpoint Town","Northern Ireland",1116
+"2765",2765,"FK Metta","Latvia",1090
+"2766",2766,"La Horquetta Rangers FC","Trinidad and Tobago",1068

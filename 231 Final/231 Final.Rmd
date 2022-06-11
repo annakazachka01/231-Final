@@ -1,0 +1,482 @@
+---
+title: "Final Project"
+author: "Anna Kazachka"
+date: "June 6, 2022"
+output:
+    html_document:
+      toc: true
+      toc_float: true
+      code_folding: show
+subtitle: PSTAT 231
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+The purpose of this project is to generate a model that will predict the rankings for specific football clubs.
+
+## Football/Soccer Club Rankings
+
+![](/Users/annakazachka/231/football.jpeg)
+
+Football around the world has been a cherished sport for decades. It has the ability to unite and inspire communities. 
+
+## Why might this model be useful?
+
+This model is useful because it provides information to fans, players, coaches, and club owners. Coaches, players, and owners can use the predictive model to scope out their biggest competitors for the next season. While fans can track their favorite teams and even place bets if desired. 
+
+## Loading Data
+
+This project uses data from Kaggle, a machine learning and data science community. The data set was downloaded from a Kaggle user on the following website: https://www.kaggle.com/datasets/ramjasmaurya/footballsoccer-clubs-ranking .
+Here are some of the key variables that are helpful to be aware of for this report:
+
+- `ranking`: The current ranking of the club team in reference to the other teams.
+- `club name`: The club's/team's name.
+- `country`: The country where the club is from.
+- `point score`: The amount of points scored by the club.
+- `1 year change`: The absolute difference between the current year ranking and the ranking from the year before.
+- `previous point score`: The amount of points scored by the club the previous year. 
+- `symbol change`: Positive is if the ranking got better and negative is if the ranking fell.
+
+```{r, message = FALSE}
+library(tidyverse)
+library(tidymodels)
+library(ISLR)
+library(rpart.plot)
+library(vip)
+library(janitor)
+library(randomForest)
+library(xgboost)
+library(corrplot)
+library(ranger)
+library(glmnet)
+library(ggplot2)
+library(kknn)
+library(scales)
+library(kernlab)
+```
+```{r, message = FALSE}
+rankings <- read_csv("rankings.csv")
+```
+
+# Data Cleaning
+
+While the data set that was downloaded was tidy, a few different cleaning steps were necessary before the split occurred:
+
+- Arrange data from best to worst rankings
+```{r}
+rankings <- arrange(rankings, ranking)
+```
+
+- Clean names
+```{r}
+rankings <- clean_names(rankings)
+```
+
+- Mutate certain columns into factors
+```{r}
+rankings <- rankings %>% 
+  mutate(symbol_change = factor(symbol_change)) %>% 
+  mutate(country = factor(country)) %>% 
+  mutate(club_name = factor(club_name))
+```
+
+After cleaning:
+```{r, echo=FALSE}
+rmarkdown::paged_table(rankings)
+```
+
+# Exploratory Data Analysis
+
+This exploratory data analysis will be based on the entire data set, which has 2,812 observations. Each observation represents a specific international soccer club.
+
+## Closer Look
+
+To better understand the difference between the rankings from each year, I decided to take a closer look at the data from 2020. The table below takes the points scored by each club in the 2020 season and displays the rankings for that season.
+
+```{r}
+rankings.year.b4 <- arrange(rankings, desc(previous_point_scored))
+rankings.year.b4 <- rankings.year.b4[c(2,3,6)]
+colnames(rankings.year.b4)[3] <- 'point_score'
+ranking = c(1:2812)
+rankings.year.b4 <- tibble(ranking, rankings.year.b4)
+```
+```{r, echo=FALSE}
+rmarkdown::paged_table(rankings.year.b4)
+```
+
+Then to compare the two years, another table was created with point difference and rank difference between the two years.
+
+```{r}
+find.prev.rank <- arrange(rankings, desc(previous_point_scored))
+prev_rank = c(1:2812)
+find.prev.rank <- tibble(prev_rank, find.prev.rank)
+find.prev.rank <- arrange(find.prev.rank, desc(point_score))
+
+point_difference = rankings$point_score-rankings$previous_point_scored
+
+rank_difference = find.prev.rank$prev_rank-rankings$ranking
+
+ranking.diff <- tibble(rankings[c(2,3)], rankings[1], find.prev.rank[1], rank_difference, rankings[4], rankings[6], point_difference)
+```
+```{r, echo=FALSE}
+rmarkdown::paged_table(ranking.diff)
+```
+
+The original data set contains a column labeled as `symbol change` that displays if the rank between the two years got better or worse. A positive sign means that the team ranked higher while a negative sign means the team ranked lower than they did the year before.
+The graph below compares the amount of teams that ranked better verses worse than the year before. 26.9% of the clubs ranked higher and 73.1% ranked lower.
+
+```{r}
+rankingsCount <- rankings %>% dplyr::count(symbol_change) %>% dplyr::mutate(perc = n/sum(n)*100)
+ggplot(data = rankingsCount, aes(y = symbol_change, x = n)) +
+  geom_col() + labs(x = 'Count', y = 'Symbol Change') +
+  geom_text(aes(y = symbol_change, x = n, label = paste0(round(perc,1),'%')), hjust = 1.1, colour = 'white', size = 5)
+```
+
+The graph below explores the spread of the amount of points received in 2020 and 2021. Most clubs for both years scored between 1325 and 1200 while the leaders scored around 2000. In 2021 numerous teams scored around 1250 with less teams scoring near the tails of the histogram. In 2020 there was a smaller spike in 1250 point range but none-the-less there was still a spike. 
+
+```{r}
+current <- data.frame(score = rankings$point_score)
+previous <- data.frame(score = rankings$previous_point_scored)
+current$i <- 'current'
+previous$i <- 'previous'
+combo <- rbind(current, previous)
+
+ggplot(combo, aes(y = score, fill = i)) + geom_histogram(binwidth = 20) + labs(x = 'Score', y = 'Count') + scale_fill_discrete(name = "", labels = c('Point Score', 'Previous Point Score')) + theme(legend.position="top")
+```
+
+A club's ranking and amount of points scored obviously have a positive correlation. To depict the relationship, the rankings and points from the 2021 season are graphed on a dot plot.
+
+```{r}
+qplot(data = rankings, x = ranking, y = point_score)  + labs(x = 'Ranking', y = 'Point Score')
+```
+
+After taking a closer look at the data and attempting to create models, I decided the data set needed more information to create a successful prediction model. 
+
+## Bettering Data Set
+
+In order to create a successful prediction model, another year of data is necessary. Researching the 2022 season rankings led to this website: https://footballdatabase.com/ranking/world/1 .
+The website provided a table with the `rank`, `club`, `country`, and `points` from the 2022 season. I had to scrape the data from this website using the chrome extension "Data Miner".
+
+```{r, message = FALSE}
+rank2022 <- read_csv("rank2022.csv")
+```
+```{r, echo=FALSE}
+rank2022 <- rank2022[-1]
+rmarkdown::paged_table(rank2022)
+```
+
+Looking at both data sets resulted in the creation of a combination of the two that offered more information to form predictions from.
+
+```{r, message = FALSE}
+newrank <- read_csv("newrank.csv")
+```
+```{r, echo=FALSE}
+newrank <- newrank[-1]
+rmarkdown::paged_table(newrank)
+```
+
+# Further Data Cleaning
+
+Here are some of the key variables that are helpful to be aware of for this data set:
+
+- `ranking 2022`: The current ranking of the club team in reference to the other teams.
+- `ranking 2021`: The 2021 season ranking of the club team in reference to the other teams.
+- `ranking 2020`: The 2020 season ranking of the club team in reference to the other teams.
+- `club name`: The club's/team's name.
+- `country`: The country where the club is from.
+- `point score 2022`: The amount of points scored by the club in the 2022 season.
+- `point score 2021`: The amount of points scored by the club in the 2021 season.
+- `point score 2020`: The amount of points scored by the club in the 2020 season.
+
+The new data set that was created is relatively tidy, but like the last there are a few cleaning steps that are necessary:
+
+- Clean names
+```{r}
+newrank <- clean_names(newrank)
+```
+- In order for the models to run successfully, the information in the data frame must be arrange in a way that the program can understand all the data. The data must be tidied, so that each row is the statistics of a specific club from a specific year (2020, 2021, or 2022). 
+```{r}
+data_mod <- newrank %>%
+  unite("points_2022", c(ranking_2022, point_score_2022)) %>%
+  unite("points_2021", c(ranking_2021, point_score_2021)) %>%
+  unite("points_2020", c(ranking_2020, point_score_2020))
+
+data_mod <- data_mod %>%
+  pivot_longer(
+    cols = c("points_2022",'points_2021','points_2020'),
+    names_to = "year", 
+    values_to = "ranking") 
+
+data_mod <- data_mod %>% separate(year, c(NA, "year")) %>% separate(ranking, c("ranking", "points_scored"))
+```
+- Mutate categorical columns into factors and quantitative to numeric.
+```{r}
+data_mod <- data_mod %>% mutate(ranking = as.numeric(ranking)) %>% mutate(club_name = factor(club_name)) %>% mutate(country = factor(country)) %>% mutate(year = factor(year)) %>% mutate(points_scored = as.numeric(points_scored))
+```
+
+```{r, echo=FALSE}
+rmarkdown::paged_table(data_mod)
+```
+
+Here are some of the key variables that are helpful to be aware of for the newly modified data set:
+
+- `ranking`: The ranking of the club team in reference to the other teams in the specified season.
+- `club name`: The club's/team's name.
+- `country`: The country where the club is from.
+- `year`: The year that the season in reference took place.
+- `point score`: The amount of points scored by the club in the specified season.
+
+Collecting the additional data and elongating the data set took longer than anticipated. It was worth it though because it ensured that the data set was high quality and usable. 
+
+# Explore Further
+```{r}
+ggplot(data_mod) + geom_histogram(aes(x = points_scored, fill = year), bins = 30)
+```
+```{r}
+ggplot(data_mod) + geom_boxplot(aes(x = points_scored, fill = year))
+```
+Stratifying by year, ensures that the training set has an even amount of data from all three years. This is helpful because it allows the models to make predictions using data from multiple years as well as teams. All three years have similar medians and quantiles but the max values and spacing between the top few teams differ. 
+
+# Model Building
+
+The model building process was difficult due to issues arising with the first data set, but after adding an additional year's data and expanding the data set issues began to clear up.
+
+## Data Split
+
+The data was split into 80% training and 20% testing. Stratified sampling was used with the strata being `year`.
+
+```{r}
+set.seed(555)
+rankings_split <- data_mod %>% 
+  initial_split(prop = 0.8, strata = 'year')
+rankings_train <- training(rankings_split)
+rankings_test <- testing(rankings_split)
+```
+
+The training data set has 6744 observations and the testing data set has 1686 observations.
+
+```{r}
+dim(rankings_train)
+dim(rankings_test)
+```
+
+## Creating Recipe
+
+Creating the recipe required a better understanding of the `recipe` package and the `step_` functions. The recipe predicts `ranking` based off of the predictors `country`, `year`, and `points_scored`. In the recipe all nominal predictors were dummy coded and all predictors were normalized. With only these specifications the recipe did not work. After discussing with Professor Coburn, I learned that I needed to remove variables that are highly sparse and unbalanced. With better understanding of the variety of `step_` functions, I learned that the `step_nzv` function will solve this issue.
+
+```{r}
+rankings_recipe <- recipe(data = data_mod, ranking ~ country + year + points_scored) %>%
+  step_dummy(all_nominal_predictors()) %>% 
+  step_nzv(all_predictors()) %>%
+  step_normalize(all_predictors())
+```
+
+## Preparing and Running Models for Cross Validation
+
+First, I had to fold the training data. 
+```{r}
+set.seed(555)
+rankings_folds <- vfold_cv(data = rankings_train, v = 5)
+```
+
+Repeated cross fold validation was run on the following four models.
+
+- Random Forest
+
+- Boosted Trees
+
+- Nearest Neighbors
+
+- 
+
+### Random Forest
+
+To prepare,the required objects were loaded, `mtry` was tuned, the mode was set to `"regression"` (because my outcome is a numeric variable), and the `ranger` engine was used. This model and `recipe` were then stored in a workflow.
+Next, the tuning grid was set up, the `mtry` parameter was updated to be a range that was less than or equal to the number of predictors. A tuning grid with 3 levels was set up. Lastly, the model was tuned and fit.
+
+```{r}
+rf_model <- rand_forest(mtry = tune(), mode = "regression") %>% 
+  set_engine("ranger")
+
+rf_workflow <- workflow() %>% 
+  add_model(rf_model) %>% 
+  add_recipe(rankings_recipe)
+
+rf_params <- hardhat::extract_parameter_set_dials(rf_model) %>% 
+  update(mtry = mtry(range= c(1,3)))
+
+rf_grid <- grid_regular(rf_params, levels = 3)
+
+rf_tune <- tune_grid(rf_workflow,
+    resamples = rankings_folds, 
+    grid = rf_grid)
+```
+
+### Boosted Trees
+
+To prepare,the required objects were loaded, `mtry` was tuned, the mode was set to `"regression"` (because my outcome is a numeric variable), and the `xgboost` engine was used. This model and `recipe` were then stored in a workflow.
+Next, the tuning grid was set up, the `mtry` parameter was updated to be a range that was less than or equal to the number of predictors. A tuning grid with 3 levels was set up. Lastly, the model was tuned and fit.
+
+```{r}
+bt_model <- boost_tree(mode = "regression", mtry = tune()) %>% 
+  set_engine("xgboost")
+
+bt_workflow <- workflow() %>% 
+  add_model(bt_model) %>% 
+  add_recipe(rankings_recipe)
+
+bt_params <- hardhat::extract_parameter_set_dials(bt_model) %>% 
+  update(mtry = mtry(range= c(1, 3)))
+
+bt_grid <- grid_regular(bt_params, levels = 3)
+
+bt_tune <- bt_workflow %>% 
+  tune_grid(
+    resamples = rankings_folds, 
+    grid = bt_grid)
+```
+
+### Nearest Neighbors
+
+To prepare,the required objects were loaded, `neighbors` was tuned, the mode was set to `"regression"`, and the `kknn` engine was used. This model and `recipe` were then stored in a workflow.
+Next, a tuning grid with 3 levels was set up. Lastly, the model was tuned and fit.
+
+```{r}
+knn_model <- 
+  nearest_neighbor(
+    neighbors = tune(),
+    mode = "regression") %>% 
+  set_engine("kknn")
+
+knn_workflow <- workflow() %>% 
+  add_model(knn_model) %>% 
+  add_recipe(rankings_recipe)
+
+knn_params <- hardhat::extract_parameter_set_dials(knn_model)
+
+knn_grid <- grid_regular(knn_params, levels = 3)
+
+knn_tune <- knn_workflow %>% 
+  tune_grid(
+    resamples = rankings_folds, 
+    grid = knn_grid)
+```
+
+### Support Vector Machine
+
+To prepare,the required objects were loaded, the mode was set to `"regression"`, and the `kernlab` engine was used. This model and `recipe` were then stored in a workflow where `cost` is tuned. 
+Then the tuning grid was created and the model was fit.
+
+```{r}
+svm_spec <- svm_rbf() %>%
+  set_mode("regression") %>%
+  set_engine("kernlab", scaled = FALSE)
+
+svm_wf <- workflow() %>%
+  add_model(svm_spec %>% set_args(cost = tune())) %>% 
+  add_recipe(rankings_recipe)
+
+param_grid <- grid_regular(cost(), levels = 5)
+
+svm_tune <- tune_grid(
+  svm_wf, 
+  resamples = rankings_folds, 
+  grid = param_grid)
+```
+
+## Cross Validation Analysis
+
+### Random Forest
+
+Taking a look at the `autoplot()` function, it is clear that the `rmse` decreases as the number of randomly selected predictors increases. Which makes sense, because more data means more chances of correctly guessing the trend of the rankings. 
+```{r}
+autoplot(rf_tune, metric = "rmse")
+show_best(rf_tune, metric = "rmse")
+```
+Using the `show_best() function`, the smallest mean is 4.1026, with `mtry = 3`.
+
+### Boosted Trees
+
+Taking a look at the `autoplot()` function for the boosted trees model, it is also clear that the `rmse` decreases as the number of randomly selected predictors increases.
+
+```{r}
+autoplot(bt_tune, metric = "rmse")
+show_best(bt_tune, metric = "rmse")
+```
+Using the `show_best() function`, the smallest mean is 11.9509, with `mtry = 3`.
+
+### Nearest Neighbors
+
+For this model, the `rmse` decreases as the number of neighbors increases. From the `autoplot()` function it appears that the ideal number of neighbors is 15.
+
+```{r}
+autoplot(knn_tune, metric = "rmse")
+show_best(knn_tune, metric = "rmse")
+```
+Using the `show_best() function`, confirms that the smallest mean is 5.2423, with `neighbors = 15`.
+
+### Support Vector Machine
+
+Taking a look at the `autoplot()` function for the boosted trees model, it is also clear that the `rmse` decreases as the number of randomly selected predictors increases.
+```{r}
+autoplot(svm_tune, metric = "rmse")
+show_best(svm_tune, metric = "rmse")
+```
+Using the `show_best() function`, the smallest mean is 83.56045, with `cost = 3.2e+01`.
+
+The Random Forest Model is the model that performed best because it has the smallest mean, 4.1026.
+
+## Final Model
+
+First, I finalized the workflow by taking the parameters from the best model, the random forest model, and fitting it to the training set. Then, taking the finalized fit and fitting it to the testing set. 
+
+```{r}
+best_model <- select_best(rf_tune, metric = "rmse")
+
+en_final <- finalize_workflow(rf_workflow, best_model)
+
+en_final_fit <- fit(en_final, data = rankings_train)
+
+predicted_data <- augment(en_final_fit, new_data = rankings_test) %>% 
+  select(ranking, .pred)
+```
+```{r}
+predicted_data %>% rmse(ranking, .pred)
+```
+
+The model returned an `rmse` of 3.8836 on our testing data, which is lower than the `rmse` on the training data but not vastly different. This means the model did a good job not overfitting to the training data.
+
+## Analysis of Test Set
+
+The graph below displays how well the prediction line estimates the data points. Since the rankings go to over 2,000, the graph has a large range thus the points are difficult to see.
+
+```{r}
+augment(en_final_fit, new_data = rankings_test) %>%
+  ggplot(aes(ranking, .pred)) +
+  geom_abline() +
+  geom_point(alpha = 0.2)
+```
+
+This graph displays a zoom-in of the first 50 rankings. In this graph it is much easier to see the difference between the line and the points. 
+
+```{r, warning=FALSE}
+augment(en_final_fit, new_data = rankings_test) %>%
+  ggplot(aes(ranking, .pred)) +
+  geom_abline() +
+  geom_point(alpha = 0.2) +
+  xlim(0,50) + ylim(0,50)
+```
+
+
+# Conclusion
+
+The purpose of this project is to generate a model that will predict the rankings for international football clubs. The data had to be modified to include more years and also elongated so the traiting set can be stratified on `year`. After performing various models on the training data (Random Forest, Boosted Trees, Nearest Neighbors, and Support Vector Machine), the Random Forest model with `mtry = 3`, has the smallest `rmse` of 4.1026. The random forest model of the training data was then fit to the testing data which resulted in an even lower `rmse` of 3.8836. With the lower `rmse` the model does not overfit to the training data and is useful in predicting the testing data. 
+
+
+![](https://media.giphy.com/media/3o85xEMVZL5ABaekYo/giphy.gif)
+
+
